@@ -1,13 +1,14 @@
 # Hacking Guide For Script Kiddies  
+
 >
 ![Ricard Feynman](https://yahooeysblog.files.wordpress.com/2015/06/richard-feynman-curiosity.jpg)
 >
 
 ## What is it?
 
-This is my study plan for going from zero knowledge (self-taught) to be an Omniscient.
-I would study about 5-9 hours everyday. 
-
+>
+>This is my study plan for going from zero knowledge (self-taught) to be an Omniscient.
+>
 ![I don't know what I'm supposed to do](https://i.pinimg.com/originals/6e/3b/9d/6e3b9d51461add09fd38c50f43ab7f2c.gif)
 >
 > Created this as a cheat sheat for any script kiddies to study topics
