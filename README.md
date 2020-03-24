@@ -40,6 +40,7 @@ This is my study plan for going from zero knowledge CS (self-taught) to security
 </tr>
 <tr><td>1.</td><td><a target="_blank" href="https://mega.nz/#!jSpChSpb!UGry-SnTLB3s4qMfh29s6jDromDGQc8I_fkWIqAY6rc"><tr><td>1.</td><td><a target="_blank" href="https://mega.nz/#!jSpChSpb!UGry-SnTLB3s4qMfh29s6jDromDGQc8I_fkWIqAY6rc">Network Attacks and Exploitation - A Framework</a></td></tr>
 >
+  
 ### Defensive Security
 
 ----------
