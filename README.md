@@ -32,13 +32,14 @@ This is my study plan for going from zero knowledge CS (self-taught) to security
 ----------
 
 ### Network Pentesting
+>
 <table width="100%" class="table">
 <tr>
 <th>No</th>
-<th>E-Book</th>
+<th>Book</th>
 </tr>
-<tr><td>1.</td><td><a target="_blank" href="https://mega.nz/#!jSpChSpb!UGry-SnTLB3s4qMfh29s6jDromDGQc8I_fkWIqAY6rc"><tr><td>8.</td><td><a target="_blank" href="https://mega.nz/#!jSpChSpb!UGry-SnTLB3s4qMfh29s6jDromDGQc8I_fkWIqAY6rc">Network Attacks and Exploitation - A Framework</a></td></tr>
-  
+<tr><td>1.</td><td><a target="_blank" href="https://mega.nz/#!jSpChSpb!UGry-SnTLB3s4qMfh29s6jDromDGQc8I_fkWIqAY6rc"><tr><td>1.</td><td><a target="_blank" href="https://mega.nz/#!jSpChSpb!UGry-SnTLB3s4qMfh29s6jDromDGQc8I_fkWIqAY6rc">Network Attacks and Exploitation - A Framework</a></td></tr>
+>
 ### Defensive Security
 
 ----------
