@@ -18,6 +18,7 @@ This is my study plan for going from zero knowledge (self-taught) to security en
 - [Best Repositories for Security Developer](#best-repositories-for-security-developer)
 - [Best Repositories for Hackers](#best-repositories-for-hackers)
 - [Best Repositories for Toolkit](#best-repositories-for-toolkit)
+- [Best Repositories for Free Books](#best-repositories-for-free books)
 - [Free Course Materials](#free-course-materials)
 
 ## Best Repositories for Security Developer
@@ -41,6 +42,11 @@ Repository | Description
 ---- | ----
 [Pentesting Toolkit](https://github.com/bt3gl/Pentesting_Toolkit) 			| Tools for pentesting, CTFs & wargames
 [Stego Toolkit](https://github.com/DominicBreuker/stego-toolkit) 			| Collection of steganography tools - helps with CTF challenges
+
+## Best Repositories for Free Books
+Repository | Description
+---- | ----
+[The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 			| A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## Free Course Materials
 >
