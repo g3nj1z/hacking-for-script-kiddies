@@ -58,6 +58,7 @@ Repository | Description
 [Unity Game Hacking](https://github.com/xcsh/Unity-game-hacking) 			| A guide for hacking unity games
 [GTFOBins](https://github.com/GTFOBins/GTFOBins.github.io) 			| Curated list of Unix binaries that can be exploited to bypass system security restrictions
 [Machine Learning for Cybersecurity](https://github.com/PacktPublishing/Machine-Learning-for-Cybersecurity-Cookbook) 			| Machine Learning for Cybersecurity Cookbook
+[Fsociety](https://github.com/Manisso/fsociety) 			| fsociety Hacking Tools Pack – A Penetration Testing Framework
 
 ## Best Repositories for Toolkit
 
