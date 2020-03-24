@@ -28,12 +28,13 @@ Repository | Description
 [Computer Science](https://github.com/ossu/computer-science) 			| :mortar_board: Free self-taught education in Computer Science
 [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) 			| Learn to code for free
 [Coding Interview University](https://github.com/jwasham/coding-interview-university) 			| A complete computer science study plan to become a software engineer.
+[Best Websites a Programmer Should Visit]()  		| Some useful websites for programmers.
 [Awesome Java](https://github.com/akullpp/awesome-java) 			| A curated list of awesome frameworks, libraries and software for the Java programming language.
 [Java Algorithms](https://github.com/TheAlgorithms/Java) 			| All Algorithms implemented in Java
 [Awesome Python](https://github.com/vinta/awesome-python) 			| A curated list of awesome Python frameworks, libraries, software and resources
 [Python Algorithms](https://github.com/TheAlgorithms/Python) 			| All Algorithms implemented in Python 
 [Best Python Examples](https://github.com/geekcomputers/Python) 			| A Collection of Python Projects
-[Best Websites a Programmer Should Visit]()  		| Some useful websites for programmers.
+[Awesome C++/C](https://github.com/fffaraz/awesome-cpp) 			| A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things.
 
 ## Best Repositories for Hackers
 
