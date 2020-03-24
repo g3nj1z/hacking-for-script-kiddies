@@ -90,6 +90,7 @@ Repository | Description
 [Pydictor](https://github.com/LandGrey/pydictor) 			| A powerful and useful hacker dictionary builder for a brute-force attack
 [Trojan](https://github.com/trojan-gfw/trojan) 			| An unidentifiable mechanism that helps you bypass GFW.
 [GonnaCry](https://github.com/tarcisio-marinho/GonnaCry) 			| A Linux Ransomware
+[SecLists](https://github.com/danielmiessler/SecLists) 			| SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place.
 
 ## Best Repositories for Free Books
 Repository | Description
