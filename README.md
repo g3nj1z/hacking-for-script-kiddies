@@ -31,6 +31,9 @@ Repository | Description
 [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)  		| Some useful websites for programmers.
 [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)  		| Manually curated collection of resources for frontend web developers.
 [Material UI](https://github.com/mui-org/material-ui)  		| React components for faster and easier web development.
+[Ant Design](https://github.com/ant-design/ant-design)  		| 🌈 A UI Design Language and React UI library 
+[Best Flutter UI Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates)  		| Completely free for everyone. Its build-in Flutter Dart.
+[Flutter UI Challenges](https://github.com/lohanidamodar/flutter_ui_challenges)  		| Trying to replicate various app UIs in flutter
 [Sass](https://github.com/sass/sass)  		| Sass makes CSS fun!
 [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)  		| A list of awesome beginners-friendly projects.
 [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)  		| Collection of Multiple Projects
