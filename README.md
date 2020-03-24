@@ -58,6 +58,7 @@ Repository | Description
 [Pentesting Toolkit](https://github.com/bt3gl/Pentesting_Toolkit) 			| Tools for pentesting, CTFs & wargames
 [CTF Toolkit](https://github.com/zardus/ctf-tools) 			| Some setup scripts for security research tools.
 [Stego Toolkit](https://github.com/DominicBreuker/stego-toolkit) 			| Collection of steganography tools - helps with CTF challenges
+[EITR](https://github.com/astryzia/EITR) 			| This script provisions a host to be used for pentesting labs and CTF games, such as HackTheBox and VulnHub.
 
 ## Best Repositories for Free Books
 Repository | Description
