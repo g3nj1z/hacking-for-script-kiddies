@@ -18,7 +18,7 @@ This is my study plan for going from zero knowledge (self-taught) to security en
 - [Best Repositories for Security Developer](#best-repositories-for-security-developer)
 - [Best Repositories for Hackers](#best-repositories-for-hackers)
 - [Best Repositories for Toolkit](#best-repositories-for-toolkit)
-- [Best Repositories for Free Books](#best-repositories-for-free books)
+- [Best Repositories for Free Books](#best-repositories-for-free-books)
 - [Free Course Materials](#free-course-materials)
 
 ## Best Repositories for Security Developer
