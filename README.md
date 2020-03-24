@@ -21,4 +21,4 @@ This is my study plan for going from zero knowledge CS (self-taught) to security
 
 Repository | Description
 ---- | ----
-[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 			|
+[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 			| A collection of various awesome lists for hackers, pentesters and security researchers
