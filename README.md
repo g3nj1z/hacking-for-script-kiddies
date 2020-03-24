@@ -37,6 +37,7 @@ Repository | Description
 [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)  		| Collection of data science cheat sheet
 [Awesome Java](https://github.com/akullpp/awesome-java) 			| A curated list of awesome frameworks, libraries and software for the Java programming language.
 [Java Algorithms](https://github.com/TheAlgorithms/Java) 			| All Algorithms implemented in Java
+[Android Idea Live Templates](https://github.com/keyboardsurfer/idea-live-templates) 			| An #androidDev collection of Live Templates for Android Studio
 [Awesome Python](https://github.com/vinta/awesome-python) 			| A curated list of awesome Python frameworks, libraries, software and resources
 [Python Algorithms](https://github.com/TheAlgorithms/Python) 			| All Algorithms implemented in Python 
 [Python 100 Days Challenge](https://github.com/jackfrued/Python-100-Days) 			| Python-100 days from novice to master
