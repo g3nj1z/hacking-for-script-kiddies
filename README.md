@@ -15,9 +15,6 @@ This is my study plan for going from zero knowledge CS (self-taught) to security
 ## Table of Contents
 
 - [What is it?](#what-is-it)
-
-# The topics include:
-
 - [Android & iOS](#android--ios)
 - [Cloud Security](#cloud-security)
 - [Defensive Security](#defensive-security)
