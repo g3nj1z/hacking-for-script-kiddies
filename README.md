@@ -33,6 +33,7 @@ Repository | Description
 [Java Algorithms](https://github.com/TheAlgorithms/Java) 			| All Algorithms implemented in Java
 [Awesome Python](https://github.com/vinta/awesome-python) 			| A curated list of awesome Python frameworks, libraries, software and resources
 [Python Algorithms](https://github.com/TheAlgorithms/Python) 			| All Algorithms implemented in Python 
+[Python 100 Days Challenge](https://github.com/jackfrued/Python-100-Days) 			| Python-100 days from novice to master
 [Best Python Examples](https://github.com/geekcomputers/Python) 			| A Collection of Python Projects
 [Awesome C++/C](https://github.com/fffaraz/awesome-cpp) 			| A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things.
 
