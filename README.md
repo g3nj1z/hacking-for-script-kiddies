@@ -53,6 +53,7 @@ Repository | Description
 [Privilege Escalation](https://github.com/Ignitetechnologies/Privilege-Escalation) 			| A cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation
 [Purple Team Sheets](https://github.com/CATx003/PURPLE-Team-sheets) 			| Links, Sheets and tips about Hacking
 [SecurityNuggets](https://github.com/Srinivas11789/SecurityNuggets) 			| 📘 Computer Security Nuggets -- > Ctf writeups + Explore, Research, Study, Fun and Learning Security
+[Unity Game Hacking](https://github.com/xcsh/Unity-game-hacking) 			| A guide for hacking unity games
 
 ## Best Repositories for Toolkit
 
