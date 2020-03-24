@@ -16,14 +16,21 @@ This is my study plan for going from zero knowledge CS (self-taught) to security
 
 - [What is it?](#what-is-it)
 - [Best Repositories for Hackers](#best-repositories)
+- [Free Course Materials](#free-course-materials)
 
 ## Best Repositories for Hackers
 
 Repository | Description
 ---- | ----
-[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 			| Collection of various awesome lists for hackers, pentesters and security researchers
-[Pentesting Toolkit](https://github.com/bt3gl/Pentesting_Toolkit) 			| Tools for pentesting, CTFs & wargames
 [Computer Science](https://github.com/ossu/computer-science) 			| :mortar_board: Free self-taught education in Computer Science
-[Stego Toolkit](https://github.com/DominicBreuker/stego-toolkit) 			| Collection of steganography tools - helps with CTF challenges
+[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 			| Collection of various awesome lists for hackers, pentesters and security researchers
 [Awesome Forensic](https://github.com/cugu/awesome-forensics) 			| A curated list of awesome forensic analysis tools and resources 
 [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) 			| A curated list of awesome malware analysis tools and resources.
+[Pentesting Toolkit](https://github.com/bt3gl/Pentesting_Toolkit) 			| Tools for pentesting, CTFs & wargames
+[Stego Toolkit](https://github.com/DominicBreuker/stego-toolkit) 			| Collection of steganography tools - helps with CTF challenges
+
+## Free Course Materials
+>
+> Thank you for sharing this materials!
+>
+[Malware](https://github.com/RPISEC/Malware)
