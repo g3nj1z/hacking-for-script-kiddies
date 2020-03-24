@@ -30,6 +30,7 @@ Repository | Description
 [Coding Interview University](https://github.com/jwasham/coding-interview-university) 			| A complete computer science study plan to become a software engineer.
 [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)  		| Some useful websites for programmers.
 [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)  		| Manually curated collection of resources for frontend web developers.
+[Sass](https://github.com/sass/sass)  		| Sass makes CSS fun!
 [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)  		| A list of awesome beginners-friendly projects.
 [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)  		| Collection of Multiple Projects
 [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)  		| Collection of data science cheat sheet
