@@ -37,6 +37,7 @@ Repository | Description
 [Flutter UI Challenges](https://github.com/lohanidamodar/flutter_ui_challenges)  		| Trying to replicate various app UIs in flutter
 [You Dont Need Javascript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)  		| CSS is powerful, you can do a lot of things without JS.
 [Sass](https://github.com/sass/sass)  		| Sass makes CSS fun!
+[Javascript](https://github.com/airbnb/javascript)  		| JavaScript Style Guide
 [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)  		| A list of awesome beginners-friendly projects.
 [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)  		| Collection of Multiple Projects
 [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)  		| Collection of data science cheat sheet
