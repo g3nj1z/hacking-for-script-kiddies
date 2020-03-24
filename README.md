@@ -63,6 +63,8 @@ Repository | Description
 [EITR](https://github.com/astryzia/EITR) 			| This script provisions a host to be used for pentesting labs and CTF games, such as HackTheBox and VulnHub.
 [PowerForensics](https://github.com/Invoke-IR/PowerForensics) 			| PowerForensics provides an all in one platform for live disk forensic analysis
 [PCAP Analyzer](https://github.com/le4f/pcap-analyzer) 			| online pcap forensic
+[Rekall](https://github.com/google/rekall) 			| Rekall Memory Forensic Framework
+[Volatility](https://github.com/volatilityfoundation/volatility) 			| An advanced memory forensics framework
 
 ## Best Repositories for Free Books
 Repository | Description
