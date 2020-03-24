@@ -31,7 +31,7 @@ Repository | Description
 [Java Algorithms](https://github.com/TheAlgorithms/Java) 			| All Algorithms implemented in Java
 [Awesome Python](https://github.com/vinta/awesome-python) 			| A curated list of awesome Python frameworks, libraries, software and resources
 [Python Algorithms](https://github.com/TheAlgorithms/Python) 			| All Algorithms implemented in Python 
-[Best Websites a Programmer Should Visit]()  		| All Algorithms implemented in Python 
+[Best Websites a Programmer Should Visit]()  		| Some useful websites for programmers.
 
 ## Best Repositories for Hackers
 
