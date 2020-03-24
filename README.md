@@ -71,5 +71,6 @@ Repository | Description
 >
 > *Thank you for sharing this materials!*
 >
+- [Beginner Network Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting)
 - [Malware](https://github.com/RPISEC/Malware)
 - [Digital investigation techniques and digital evidence](https://github.com/CourseNotesBTH/DV1592)
