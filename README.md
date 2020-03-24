@@ -23,4 +23,4 @@ Repository | Description
 ---- | ----
 [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 			| A collection of various awesome lists for hackers, pentesters and security researchers
 [Pentesting Toolkit](https://github.com/bt3gl/Pentesting_Toolkit) 			| Tools for pentesting, CTFs & wargames
-[Computer Science](https://github.com/G3NJ1z/computer-science) 			| :mortar_board: Free self-taught education in Computer Science
+[Computer Science](https://github.com/ossu/computer-science) 			| :mortar_board: Free self-taught education in Computer Science
