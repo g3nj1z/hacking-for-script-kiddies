@@ -66,6 +66,7 @@ Repository | Description
 [PCAP Analyzer](https://github.com/le4f/pcap-analyzer) 			| online pcap forensic
 [Rekall](https://github.com/google/rekall) 			| Rekall Memory Forensic Framework
 [Volatility](https://github.com/volatilityfoundation/volatility) 			| An advanced memory forensics framework
+[Pydictor](https://github.com/LandGrey/pydictor) 			| A powerful and useful hacker dictionary builder for a brute-force attack
 
 ## Best Repositories for Free Books
 Repository | Description
