@@ -70,6 +70,8 @@ Repository | Description
 [Rekall](https://github.com/google/rekall) 			| Rekall Memory Forensic Framework
 [Volatility](https://github.com/volatilityfoundation/volatility) 			| An advanced memory forensics framework
 [Pydictor](https://github.com/LandGrey/pydictor) 			| A powerful and useful hacker dictionary builder for a brute-force attack
+[Trojan](https://github.com/trojan-gfw/trojan) 			| An unidentifiable mechanism that helps you bypass GFW.
+[GonnaCry](https://github.com/tarcisio-marinho/GonnaCry) 			| A Linux Ransomware
 
 ## Best Repositories for Free Books
 Repository | Description
