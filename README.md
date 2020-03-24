@@ -15,3 +15,58 @@ This is my study plan for going from zero knowledge CS (self-taught) to security
 ## Table of Contents
 
 - [What is it?](#what-is-it)
+
+# The topics include:
+
+- [Android & iOS](#android--ios)
+- [Cloud Security](#cloud-security)
+- [Defensive Security](#defensive-security)
+- [IoT](#iot)
+- [Malware Analysis & Forensics](#malware-analysis--forensics)
+- [Network Pentesting](#network-pentesting)
+- [Offensive Security](#offensive-security)
+- [Programming Languages](#programming-languages)
+- [Reverse Engineering](#reverse-engineering)
+- [SysAdmin](#sysadmin)
+- [Virus Botnet and Malware](#virus-botnet-and-malware)
+- [Wireless Network Pentesting](#wireless-network-pentesting)
+- [Misc](#misc)
+
+----------
+
+### Network Pentesting
+
+### Defensive Security
+
+----------
+
+### Offensive Security
+
+- **Backtrack**
+  
+- **Kali Linux**
+
+- **Hacking**
+ 
+- **Operating Systems**
+  - **Windows**
+    
+- **Web & WebApp**
+ 
+----------
+
+### Programming Languages
+- **Python**
+ 
+----------
+
+### Reverse Engineering
+
+----------
+
+### Virus Botnet and Malware
+
+----------
+
+### Misc
+
