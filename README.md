@@ -56,7 +56,7 @@ Repository | Description
 [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 			| A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 [Hacking Security Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) 			| Top 100 Hacking & Security E-Books
 [Free Security Ebooks](https://github.com/Hack-with-Github/Free-Security-eBooks) 			| Free Security and Hacking eBooks
-
+[CTF-literature](https://github.com/s1gh/ctf-literature) 			| Collection of free books, papers and articles related to CTF challenges.
 
 ## Free Course Materials
 >
