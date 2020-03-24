@@ -17,7 +17,7 @@ This is my study plan for going from zero knowledge CS (self-taught) to security
 - [What is it?](#what-is-it)
 - [Best Repositories for Hackers](#best-repositories)
 
-## Best Repositories
+## Best Repositories for Hackers
 
 Repository | Description
 ---- | ----
