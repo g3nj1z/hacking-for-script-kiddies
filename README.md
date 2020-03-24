@@ -55,6 +55,8 @@ Repository | Description
 [Best Python Examples](https://github.com/geekcomputers/Python) 			| A Collection of Python Projects
 [Awesome C++/C](https://github.com/fffaraz/awesome-cpp) 			| A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things.
 [FaceForensics](https://github.com/ondyari/FaceForensics) 			| Github of the FaceForensics dataset
+[Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) 			| Clone a voice in 5 seconds to generate arbitrary speech in real-time
+[Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) 			| Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility.
 
 ## Best Repositories for Hackers
 
