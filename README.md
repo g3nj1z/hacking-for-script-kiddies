@@ -62,6 +62,7 @@ Repository | Description
 [Linux Smart Enumeration](https://github.com/diego-treitos/linux-smart-enumeration) 			| Linux enumeration tool for pentesting and CTFs with verbosity levels
 [EITR](https://github.com/astryzia/EITR) 			| This script provisions a host to be used for pentesting labs and CTF games, such as HackTheBox and VulnHub.
 [PowerForensics](https://github.com/Invoke-IR/PowerForensics) 			| PowerForensics provides an all in one platform for live disk forensic analysis
+[PCAP Analyzer](https://github.com/le4f/pcap-analyzer) 			| online pcap forensic
 
 ## Best Repositories for Free Books
 Repository | Description
