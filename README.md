@@ -29,6 +29,7 @@ Repository | Description
 [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) 			| Learn to code for free
 [Coding Interview University](https://github.com/jwasham/coding-interview-university) 			| A complete computer science study plan to become a software engineer.
 [The Algorithms](https://github.com/TheAlgorithms/Java) 			| All Algorithms implemented in Java
+[Awesome Python](https://github.com/vinta/awesome-python) 			| A curated list of awesome Python frameworks, libraries, software and resources
 
 ## Best Repositories for Hackers
 
