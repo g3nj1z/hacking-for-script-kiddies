@@ -57,6 +57,7 @@ Repository | Description
 [Hacking Security Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) 			| Top 100 Hacking & Security E-Books
 [Free Security Ebooks](https://github.com/Hack-with-Github/Free-Security-eBooks) 			| Free Security and Hacking eBooks
 [CTF-literature](https://github.com/s1gh/ctf-literature) 			| Collection of free books, papers and articles related to CTF challenges.
+[All Types Ebooks](https://github.com/abhijit838/ebooks) 			| Collection of free E-books of all types
 [Python Books](https://github.com/amitkadivar1/Books) 			| Collection of free python books
 
 ## Free Course Materials
