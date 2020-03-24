@@ -15,17 +15,29 @@ This is my study plan for going from zero knowledge CS (self-taught) to security
 ## Table of Contents
 
 - [What is it?](#what-is-it)
-- [Best Repositories for Hackers](#best-repositories)
+- [Best Repositories for Computer Science](#best-repositories-for-computer-science)
+- [Best Repositories for Hackers](#best-repositories-for-hackers)
+- [Best Repositories for Toolkit](#best-repositories-for-toolkit)
 - [Free Course Materials](#free-course-materials)
+
+## Best Repositories for Computer Science
+
+Repository | Description
+---- | ----
+[Computer Science](https://github.com/ossu/computer-science) 			| :mortar_board: Free self-taught education in Computer Science
 
 ## Best Repositories for Hackers
 
 Repository | Description
 ---- | ----
-[Computer Science](https://github.com/ossu/computer-science) 			| :mortar_board: Free self-taught education in Computer Science
 [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 			| Collection of various awesome lists for hackers, pentesters and security researchers
 [Awesome Forensic](https://github.com/cugu/awesome-forensics) 			| A curated list of awesome forensic analysis tools and resources 
 [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) 			| A curated list of awesome malware analysis tools and resources.
+
+## Best Repositories for Toolkit
+
+Repository | Description
+---- | ----
 [Pentesting Toolkit](https://github.com/bt3gl/Pentesting_Toolkit) 			| Tools for pentesting, CTFs & wargames
 [Stego Toolkit](https://github.com/DominicBreuker/stego-toolkit) 			| Collection of steganography tools - helps with CTF challenges
 
