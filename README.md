@@ -50,6 +50,7 @@ Repository | Description
 [Awesome Cybersecurity Blueteam](https://github.com/meitar/awesome-cybersecurity-blueteam) 			| 💻🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 [Cheatsheet God](https://github.com/OlivierLaflamme/Cheatsheet-God) 			| Penetration Testing Reference Bank - OSCP / PTP & PTX Cheatsheet
 [Privilege Escalation](https://github.com/Ignitetechnologies/Privilege-Escalation) 			| A cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation
+[Purple Team Sheets](https://github.com/CATx003/PURPLE-Team-sheets) 			| Links, Sheets and tips about Hacking
 
 ## Best Repositories for Toolkit
 
