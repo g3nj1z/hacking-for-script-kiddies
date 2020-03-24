@@ -15,12 +15,12 @@ This is my study plan for going from zero knowledge CS (self-taught) to security
 ## Table of Contents
 
 - [What is it?](#what-is-it)
-- [Best Repositories for Computer Science](#best-repositories-for-computer-science)
+- [Best Repositories for Security Developer](#best-repositories-for-security-developer)
 - [Best Repositories for Hackers](#best-repositories-for-hackers)
 - [Best Repositories for Toolkit](#best-repositories-for-toolkit)
 - [Free Course Materials](#free-course-materials)
 
-## Best Repositories for Computer Science
+## Best Repositories for Security Developer
 
 Repository | Description
 ---- | ----
