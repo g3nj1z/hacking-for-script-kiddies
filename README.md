@@ -29,6 +29,7 @@ Repository | Description
 [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) 			| Learn to code for free
 [Coding Interview University](https://github.com/jwasham/coding-interview-university) 			| A complete computer science study plan to become a software engineer.
 [Best Websites a Programmer Should Visit]()  		| Some useful websites for programmers.
+[Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)  		| Collection of data science cheat sheet
 [Awesome Java](https://github.com/akullpp/awesome-java) 			| A curated list of awesome frameworks, libraries and software for the Java programming language.
 [Java Algorithms](https://github.com/TheAlgorithms/Java) 			| All Algorithms implemented in Java
 [Awesome Python](https://github.com/vinta/awesome-python) 			| A curated list of awesome Python frameworks, libraries, software and resources
