@@ -21,6 +21,7 @@ This is my study plan for going from zero knowledge CS (self-taught) to security
 
 Repository | Description
 ---- | ----
-[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 			| A collection of various awesome lists for hackers, pentesters and security researchers
+[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 			| Collection of various awesome lists for hackers, pentesters and security researchers
 [Pentesting Toolkit](https://github.com/bt3gl/Pentesting_Toolkit) 			| Tools for pentesting, CTFs & wargames
 [Computer Science](https://github.com/ossu/computer-science) 			| :mortar_board: Free self-taught education in Computer Science
+[Stego Toolkit](https://github.com/DominicBreuker/stego-toolkit) 			| Collection of steganography tools - helps with CTF challenges
