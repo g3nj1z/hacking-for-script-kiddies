@@ -58,7 +58,8 @@ Repository | Description
 [Unity Game Hacking](https://github.com/xcsh/Unity-game-hacking) 			| A guide for hacking unity games
 [GTFOBins](https://github.com/GTFOBins/GTFOBins.github.io) 			| Curated list of Unix binaries that can be exploited to bypass system security restrictions
 [Machine Learning for Cybersecurity](https://github.com/PacktPublishing/Machine-Learning-for-Cybersecurity-Cookbook) 			| Machine Learning for Cybersecurity Cookbook
-[Fsociety](https://github.com/Manisso/fsociety) 			| fsociety Hacking Tools Pack – A Penetration Testing Framework
+[Fsociety](https://github.com/Manisso/fsociety) 			| Fsociety Hacking Tools Pack – A Penetration Testing Framework
+[Fsociety Randomware](https://github.com/graniet/fsociety-ransomware-MrRobot) 			| This is Jester ransomware like, in Mr Robot movie (coded by Darlene S1E2,3)
 
 ## Best Repositories for Toolkit
 
