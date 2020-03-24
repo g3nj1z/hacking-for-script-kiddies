@@ -34,6 +34,7 @@ Repository | Description
 [Ant Design](https://github.com/ant-design/ant-design)  		| 🌈 A UI Design Language and React UI library 
 [Best Flutter UI Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates)  		| Completely free for everyone. Its build-in Flutter Dart.
 [Flutter UI Challenges](https://github.com/lohanidamodar/flutter_ui_challenges)  		| Trying to replicate various app UIs in flutter
+[You Dont Need Javascript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)  		| CSS is powerful, you can do a lot of things without JS.
 [Sass](https://github.com/sass/sass)  		| Sass makes CSS fun!
 [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)  		| A list of awesome beginners-friendly projects.
 [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)  		| Collection of Multiple Projects
