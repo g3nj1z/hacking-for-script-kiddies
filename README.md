@@ -1,5 +1,5 @@
 # Hacking Guide For Script Kiddies
-> * so whoami?*
+> *so whoami?*
 > 
 > A guy with great obsession in hacking and still learning to accomplish professional IT background of experience.
 > Created this as a cheat sheat for any script kiddies 
