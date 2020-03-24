@@ -26,4 +26,4 @@ Repository | Description
 [Computer Science](https://github.com/ossu/computer-science) 			| :mortar_board: Free self-taught education in Computer Science
 [Stego Toolkit](https://github.com/DominicBreuker/stego-toolkit) 			| Collection of steganography tools - helps with CTF challenges
 [Awesome Forensic](https://github.com/cugu/awesome-forensics) 			| A curated list of awesome forensic analysis tools and resources 
-
+[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) 			| A curated list of awesome malware analysis tools and resources.
