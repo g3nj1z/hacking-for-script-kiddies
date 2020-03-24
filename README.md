@@ -59,8 +59,9 @@ Repository | Description
 [Pentesting Toolkit](https://github.com/bt3gl/Pentesting_Toolkit) 			| Tools for pentesting, CTFs & wargames
 [CTF Toolkit](https://github.com/zardus/ctf-tools) 			| Some setup scripts for security research tools.
 [Stego Toolkit](https://github.com/DominicBreuker/stego-toolkit) 			| Collection of steganography tools - helps with CTF challenges
-[EITR](https://github.com/astryzia/EITR) 			| This script provisions a host to be used for pentesting labs and CTF games, such as HackTheBox and VulnHub.
 [Linux Smart Enumeration](https://github.com/diego-treitos/linux-smart-enumeration) 			| Linux enumeration tool for pentesting and CTFs with verbosity levels
+[EITR](https://github.com/astryzia/EITR) 			| This script provisions a host to be used for pentesting labs and CTF games, such as HackTheBox and VulnHub.
+[PowerForensics](https://github.com/Invoke-IR/PowerForensics) 			| PowerForensics provides an all in one platform for live disk forensic analysis
 
 ## Best Repositories for Free Books
 Repository | Description
