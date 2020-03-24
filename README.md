@@ -1,4 +1,4 @@
-# hacking-for-script-kiddies
+# Hacking Guide For Script Kiddies
 > whoami?
 > 
 > A guy with great obsession in cyber security. Still learning to accomplish professional IT background of experience.
