@@ -57,7 +57,7 @@ Repository | Description
 
 ## Free Course Materials
 >
-> Thank you for sharing this materials!
+> *Thank you for sharing this materials!*
 >
-[Malware](https://github.com/RPISEC/Malware)
-[Digital investigation techniques and digital evidence](https://github.com/CourseNotesBTH/DV1592)
+- [Malware](https://github.com/RPISEC/Malware)
+- [Digital investigation techniques and digital evidence](https://github.com/CourseNotesBTH/DV1592)
