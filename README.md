@@ -64,6 +64,7 @@ Repository | Description
 [THC Tips Tricks Hacks Cheat Sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) 			| Collection of various tips & tricks
 [CTF-wiki](https://github.com/ctf-wiki/ctf-wiki) 			| CTF Wiki Online.
 [PHP Malware Finder](https://github.com/jvoisin/php-malware-finder) 			| Detect potentially malicious PHP files
+[Malware Samples](https://github.com/RamadhanAmizudin/malware) 			| Uploaded to GitHub for those want to analyse the code.
 
 ## Best Repositories for Toolkit
 
