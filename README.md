@@ -45,6 +45,7 @@ Repository | Description
 Repository | Description
 ---- | ----
 [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 			| Collection of various awesome lists for hackers, pentesters and security researchers
+[Awesome Security Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists) 			| A collection of various GitHub gists for hackers, pentesters and security researchers
 [Awesome Forensic](https://github.com/cugu/awesome-forensics) 			| A curated list of awesome forensic analysis tools and resources 
 [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) 			| A curated list of awesome malware analysis tools and resources.
 [Awesome Cybersecurity Blueteam](https://github.com/meitar/awesome-cybersecurity-blueteam) 			| 💻🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
