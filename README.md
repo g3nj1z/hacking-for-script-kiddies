@@ -80,6 +80,7 @@ Repository | Description
 [Stego Toolkit](https://github.com/DominicBreuker/stego-toolkit) 			| Collection of steganography tools - helps with CTF challenges
 [CTF Exploration Tool](https://github.com/taviso/ctftool) 			| Interactive CTF Exploration Tool
 [Linux Smart Enumeration](https://github.com/diego-treitos/linux-smart-enumeration) 			| Linux enumeration tool for pentesting and CTFs with verbosity levels
+[Tactical Exploitation Toolkit](https://github.com/0xdea/tactical-exploitation) 			| Modern tactical exploitation toolkit. 
 [EITR](https://github.com/astryzia/EITR) 			| This script provisions a host to be used for pentesting labs and CTF games, such as HackTheBox and VulnHub.
 [PowerForensics](https://github.com/Invoke-IR/PowerForensics) 			| PowerForensics provides an all in one platform for live disk forensic analysis
 [PCAP Analyzer](https://github.com/le4f/pcap-analyzer) 			| online pcap forensic
