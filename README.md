@@ -39,6 +39,7 @@ Repository | Description
 [You Dont Need Javascript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)  		| CSS is powerful, you can do a lot of things without JS.
 [Sass](https://github.com/sass/sass)  		| Sass makes CSS fun!
 [Javascript](https://github.com/airbnb/javascript)  		| JavaScript Style Guide
+[Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)  		| 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)  		| A list of awesome beginners-friendly projects.
 [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)  		| Collection of Multiple Projects
 [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)  		| Collection of data science cheat sheet
