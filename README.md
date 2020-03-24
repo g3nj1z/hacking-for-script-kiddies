@@ -25,6 +25,7 @@ This is my study plan for going from zero knowledge (self-taught) to security en
 Repository | Description
 ---- | ----
 [Computer Science](https://github.com/ossu/computer-science) 			| :mortar_board: Free self-taught education in Computer Science
+[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) 			| Learn to code for free
 
 ## Best Repositories for Hackers
 
