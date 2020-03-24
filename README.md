@@ -60,6 +60,7 @@ Repository | Description
 [Machine Learning for Cybersecurity](https://github.com/PacktPublishing/Machine-Learning-for-Cybersecurity-Cookbook) 			| Machine Learning for Cybersecurity Cookbook
 [Fsociety](https://github.com/Manisso/fsociety) 			| Fsociety Hacking Tools Pack – A Penetration Testing Framework
 [Fsociety Randomware](https://github.com/graniet/fsociety-ransomware-MrRobot) 			| This is Jester ransomware like, in Mr Robot movie (coded by Darlene S1E2,3)
+[THC Tips Tricks Hacks Cheat Sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) 			| Collection of various tips & tricks
 
 ## Best Repositories for Toolkit
 
