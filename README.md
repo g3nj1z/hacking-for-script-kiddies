@@ -83,6 +83,7 @@ Repository | Description
 - [CyberSecurity](https://github.com/DerekBabb/CyberSecurity)
 - [Beginner Network Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting)
 - [Malware](https://github.com/RPISEC/Malware)
+- [How2Exploit Binary](https://github.com/Bretley/how2exploit_binary)
 - [IT Forensics](https://github.com/chunyufen/PgD-IT-Forensics-Module-5)
 - [Computer Forensics](https://github.com/ricco386/CYBER502x-Computer-Forensics)
 - [Digital investigation techniques and digital evidence](https://github.com/CourseNotesBTH/DV1592)
