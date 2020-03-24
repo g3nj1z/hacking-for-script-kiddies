@@ -28,6 +28,7 @@ Repository | Description
 [Computer Science](https://github.com/ossu/computer-science) 			| :mortar_board: Free self-taught education in Computer Science
 [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) 			| Learn to code for free
 [Coding Interview University](https://github.com/jwasham/coding-interview-university) 			| A complete computer science study plan to become a software engineer.
+[Interviews](https://github.com/kdn251/interviews) 			| Everything you need to know to get the job. 
 [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)  		| Some useful websites for programmers.
 [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)  		| Manually curated collection of resources for frontend web developers.
 [Material UI](https://github.com/mui-org/material-ui)  		| React components for faster and easier web development.
