@@ -48,7 +48,7 @@ Repository | Description
 [Awesome Forensic](https://github.com/cugu/awesome-forensics) 			| A curated list of awesome forensic analysis tools and resources 
 [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) 			| A curated list of awesome malware analysis tools and resources.
 [Privilege Escalation](https://github.com/Ignitetechnologies/Privilege-Escalation) 			| A cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation
-[]()
+[Awesome Cybersecurity Blueteam](https://github.com/meitar/awesome-cybersecurity-blueteam) 			| 💻🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 
 ## Best Repositories for Toolkit
 
