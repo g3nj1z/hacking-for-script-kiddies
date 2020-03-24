@@ -54,6 +54,7 @@ Repository | Description
 Repository | Description
 ---- | ----
 [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 			| A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+[Hacking Security Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) 			| Top 100 Hacking & Security E-Books
 
 ## Free Course Materials
 >
