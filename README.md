@@ -167,25 +167,43 @@ Repository | Description
 
 ### Hacker Toolbox
 
+## CTF
+
 Repository | Description
 ---- | ----
-[Pentesting Toolkit](https://github.com/bt3gl/Pentesting_Toolkit) 			| Tools for pentesting, CTFs & wargames
 [CTF Toolkit](https://github.com/zardus/ctf-tools) 			| Some setup scripts for security research tools.
+[CTF Exploration Tool](https://github.com/taviso/ctftool) 			| Interactive CTF Exploration Tool
+[Pydictor](https://github.com/LandGrey/pydictor) 			| A powerful and useful hacker dictionary builder for a brute-force attack
+[Linux Smart Enumeration](https://github.com/diego-treitos/linux-smart-enumeration) 			| Linux enumeration tool for pentesting and CTFs with verbosity levels
+
+## Pentesting
+
+Repository | Description
+---- | ----
+[EITR](https://github.com/astryzia/EITR) 			| This script provisions a host to be used for pentesting labs and CTF games, such as HackTheBox and VulnHub.
+[Pentesting Toolkit](https://github.com/bt3gl/Pentesting_Toolkit) 			| Tools for pentesting, CTFs & wargames
+[Tactical Exploitation Toolkit](https://github.com/0xdea/tactical-exploitation) 			| Modern tactical exploitation toolkit. 
+[Metasploit Framework](https://github.com/rapid7/metasploit-framework) 			| Metasploit Framework
+[SecLists](https://github.com/danielmiessler/SecLists) 			| SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place.
+
+## Forensic
+
+Repository | Description
+---- | ----
 [Forensics Toolkit](https://github.com/karthik997/Forensic_Toolkit) 			| Major tools used for Digital Forensic Investigation, includes tools used for Image, Audio, Memory, Network and Disk Image data analysis.
 [Stego Toolkit](https://github.com/DominicBreuker/stego-toolkit) 			| Collection of steganography tools - helps with CTF challenges
-[CTF Exploration Tool](https://github.com/taviso/ctftool) 			| Interactive CTF Exploration Tool
-[Linux Smart Enumeration](https://github.com/diego-treitos/linux-smart-enumeration) 			| Linux enumeration tool for pentesting and CTFs with verbosity levels
-[Tactical Exploitation Toolkit](https://github.com/0xdea/tactical-exploitation) 			| Modern tactical exploitation toolkit. 
-[EITR](https://github.com/astryzia/EITR) 			| This script provisions a host to be used for pentesting labs and CTF games, such as HackTheBox and VulnHub.
+[CyberChef](https://github.com/gchq/CyberChef) 			|  a web app for encryption, encoding, compression and data analysis
 [PowerForensics](https://github.com/Invoke-IR/PowerForensics) 			| PowerForensics provides an all in one platform for live disk forensic analysis
 [PCAP Analyzer](https://github.com/le4f/pcap-analyzer) 			| online pcap forensic
 [Rekall](https://github.com/google/rekall) 			| Rekall Memory Forensic Framework
 [Volatility](https://github.com/volatilityfoundation/volatility) 			| An advanced memory forensics framework
-[Pydictor](https://github.com/LandGrey/pydictor) 			| A powerful and useful hacker dictionary builder for a brute-force attack
+
+## Malware
+
+Repository | Description
+---- | ----
 [Trojan](https://github.com/trojan-gfw/trojan) 			| An unidentifiable mechanism that helps you bypass GFW.
 [GonnaCry](https://github.com/tarcisio-marinho/GonnaCry) 			| A Linux Ransomware
-[SecLists](https://github.com/danielmiessler/SecLists) 			| SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place.
-[Metasploit Framework](https://github.com/rapid7/metasploit-framework) 			| Metasploit Framework
 [Processhacker](https://github.com/processhacker/processhacker) 			| A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 [PHP Malware Finder](https://github.com/jvoisin/php-malware-finder) 			| Detect potentially malicious PHP files
 [Fsociety](https://github.com/Manisso/fsociety) 			| Fsociety Hacking Tools Pack – A Penetration Testing Framework
