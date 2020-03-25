@@ -176,6 +176,7 @@ Repository | Description
 [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) 			| Collection of the cheat sheets useful for pentesting
 [Awesome Google VRP Writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups) 			| 🐛 A list of writeups from the Google VRP Bug Bounty program
 [Awesome Cybersecurity Blueteam](https://github.com/meitar/awesome-cybersecurity-blueteam) 			| 💻🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
+[Awesome Node.js Security](https://github.com/lirantal/awesome-nodejs-security) 			| Awesome Node.js Security resources
 [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) 			| An awesome list of honeypot resources
 
 ### Hacker Cheatsheets
