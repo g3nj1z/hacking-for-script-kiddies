@@ -36,7 +36,7 @@
   - [Hacker Toolbox](#hacker-toolbox)
   - [Hack like a Youtuber](#hack-like-a-youtuber)
 - [Free Free Free Books](#free-free-free-books)
-- [Free Course Materials](#free-course-materials)
+- [Course Materials](#course-materials)
 
 ## Why use it?
 
@@ -223,7 +223,7 @@ Repository | Description
 [All Types Ebooks](https://github.com/abhijit838/ebooks) 			| Collection of free E-books of all types
 [Python Books](https://github.com/amitkadivar1/Books) 			| Collection of free python books
 
-## Free Course Materials
+## Course Materials
 >
 > *Thank you for sharing this materials!*
 >
