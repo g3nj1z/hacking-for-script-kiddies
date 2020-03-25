@@ -69,6 +69,8 @@ Repository | Description
 
 ### Web Development
 
+![Expert HTML](https://memeshappen.com/media/created/since-when-you-become-an-expert-in-html-last-night-meme-10241.jpg)
+
 Repository | Description
 ---- | ----
 [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)  		| Manually curated collection of resources for frontend web developers.
