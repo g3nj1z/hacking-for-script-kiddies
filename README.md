@@ -20,14 +20,14 @@
 - [Why use it?](#why-use-it)
 - [How to use it?](#how-to-use-it)
 - [Everything you need to know about Programming](#everything-you-need-to-know-about-programming)
-  - [Interview]
-  - [Web Development]
-  - [Projects]
-  - [Data Science]
-  - [Java]
-  - [Python]
-  - [C++/C]
-  - [Machine Learning]
+  - [Interview](#interview)
+  - [Web Development](#web-development)
+  - [Java](#java)
+  - [Python](#python)
+  - [C++/C](#c++/c)
+  - [Machine Learning](#machine-learning)
+  - [Data Science](#data-science)
+  - [Projects](#projects)
 - [Best Repositories for Hackers](#best-repositories-for-hackers)
 - [Hacking Youtube Channel](#hacking-youtube-channel)
 - [Best Repositories for Toolkit](#best-repositories-for-toolkit)
@@ -48,8 +48,11 @@ Open any repositories that you interested and *read* it, It's already have guide
 
 ## Everything you need to know about Programming
 
+You can learn everything related to CS with this courses
 - [Computer Science](https://github.com/ossu/computer-science)
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
+### Interview
 
 Repository | Description
 ---- | ----
@@ -57,6 +60,8 @@ Repository | Description
 [Interviews](https://github.com/kdn251/interviews) 			| Everything you need to know to get the job. 
 [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) 			| 💯 Materials to help you rock your next coding interview
 [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)  		| Some useful websites for programmers.
+
+### Web Development
 
 Repository | Description
 ---- | ----
@@ -70,16 +75,7 @@ Repository | Description
 [Javascript](https://github.com/airbnb/javascript)  		| JavaScript Style Guide
 [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)  		| 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
-Repository | Description
----- | ----
-[Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)  		| A list of awesome beginners-friendly projects.
-[Build Your Own X](https://github.com/danistefanovic/build-your-own-x)  		| Collection of Multiple Projects
-[FaceForensics](https://github.com/ondyari/FaceForensics) 			| Github of the FaceForensics dataset
-[Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) 			| Clone a voice in 5 seconds to generate arbitrary speech in real-time
-
-Repository | Description
----- | ----
-[Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)  		| Collection of data science cheat sheet
+### Java
 
 Repository | Description
 ---- | ----
@@ -90,6 +86,8 @@ Repository | Description
 [Android Clean Architecture](https://github.com/android10/Android-CleanArchitecture) 			| This is a sample app that is part of a series of blog posts that have written about how to architect an android application using Uncle Bob's clean architecture approach.
 [Android Idea Live Templates](https://github.com/keyboardsurfer/idea-live-templates) 			| An #androidDev collection of Live Templates for Android Studio
 
+### Python
+
 Repository | Description
 ---- | ----
 [Awesome Python](https://github.com/vinta/awesome-python) 			| A curated list of awesome Python frameworks, libraries, software and resources
@@ -97,13 +95,32 @@ Repository | Description
 [Python 100 Days Challenge](https://github.com/jackfrued/Python-100-Days) 			| Python-100 days from novice to master
 [Best Python Examples](https://github.com/geekcomputers/Python) 			| A Collection of Python Projects
 
+### C++/C
+
 Repository | Description
 ---- | ----
 [Awesome C++/C](https://github.com/fffaraz/awesome-cpp) 			| A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things.
 
+### Machine Learning
+
 Repository | Description
 ---- | ----
 [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) 			| Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility.
+
+### Data Science
+
+Repository | Description
+---- | ----
+[Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)  		| Collection of data science cheat sheet
+
+### Projects
+
+Repository | Description
+---- | ----
+[Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)  		| A list of awesome beginners-friendly projects.
+[Build Your Own X](https://github.com/danistefanovic/build-your-own-x)  		| Collection of Multiple Projects
+[FaceForensics](https://github.com/ondyari/FaceForensics) 			| Github of the FaceForensics dataset
+[Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) 			| Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
 ## Best Repositories for Hackers
 
