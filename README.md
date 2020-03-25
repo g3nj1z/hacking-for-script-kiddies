@@ -48,10 +48,8 @@ Open any repositories that you interested and *read* it, It's already have guide
 
 ## Everything you need to know about Programming
 
-Repository | Description
----- | ----
-[Computer Science](https://github.com/ossu/computer-science) 			| :mortar_board: Free self-taught education in Computer Science
-[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) 			| Learn to code for free
+- [Computer Science](https://github.com/ossu/computer-science)
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
 Repository | Description
 ---- | ----
