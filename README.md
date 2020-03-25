@@ -164,17 +164,11 @@ Repository | Description
 ---- | ----
 [CTF-wiki](https://github.com/ctf-wiki/ctf-wiki) 			| CTF Wiki Online.
 [Privilege Escalation](https://github.com/Ignitetechnologies/Privilege-Escalation) 			| A cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation
-
-### Hacker Toolbox
-
-## CTF
-
-Repository | Description
----- | ----
 [CTF Toolkit](https://github.com/zardus/ctf-tools) 			| Some setup scripts for security research tools.
 [CTF Exploration Tool](https://github.com/taviso/ctftool) 			| Interactive CTF Exploration Tool
 [Pydictor](https://github.com/LandGrey/pydictor) 			| A powerful and useful hacker dictionary builder for a brute-force attack
-[Linux Smart Enumeration](https://github.com/diego-treitos/linux-smart-enumeration) 			| Linux enumeration tool for pentesting and CTFs with verbosity levels
+
+### Hacker Toolbox
 
 ## Pentesting
 
@@ -185,6 +179,7 @@ Repository | Description
 [Tactical Exploitation Toolkit](https://github.com/0xdea/tactical-exploitation) 			| Modern tactical exploitation toolkit. 
 [Metasploit Framework](https://github.com/rapid7/metasploit-framework) 			| Metasploit Framework
 [SecLists](https://github.com/danielmiessler/SecLists) 			| SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place.
+[Linux Smart Enumeration](https://github.com/diego-treitos/linux-smart-enumeration) 			| Linux enumeration tool for pentesting and CTFs with verbosity levels
 
 ## Forensic
 
