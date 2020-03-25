@@ -49,11 +49,11 @@ Open any repositories that you interested and *read* it, It's already have guide
 ## Everything you need to know about Programming
 
 You can learn everything related to CS with this courses
-- [Computer Science](https://github.com/ossu/computer-science)
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-- [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- [ ] [Computer Science](https://github.com/ossu/computer-science)
+- [ ] [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- [ ] [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
-### - [ ] Interview
+### Interview
 
 Repository | Description
 ---- | ----
@@ -61,7 +61,7 @@ Repository | Description
 [Interviews](https://github.com/kdn251/interviews) 			| Everything you need to know to get the job. 
 [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) 			| 💯 Materials to help you rock your next coding interview
 
-### - [ ] Web Development
+### Web Development
 
 Repository | Description
 ---- | ----
@@ -75,7 +75,7 @@ Repository | Description
 [Javascript](https://github.com/airbnb/javascript)  		| JavaScript Style Guide
 [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)  		| 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
-### - [ ] Java
+### Java
 
 Repository | Description
 ---- | ----
@@ -86,7 +86,7 @@ Repository | Description
 [Android Clean Architecture](https://github.com/android10/Android-CleanArchitecture) 			| This is a sample app that is part of a series of blog posts that have written about how to architect an android application using Uncle Bob's clean architecture approach.
 [Android Idea Live Templates](https://github.com/keyboardsurfer/idea-live-templates) 			| An #androidDev collection of Live Templates for Android Studio
 
-### - [ ] Python
+### Python
 
 Repository | Description
 ---- | ----
@@ -95,25 +95,25 @@ Repository | Description
 [Python 100 Days Challenge](https://github.com/jackfrued/Python-100-Days) 			| Python-100 days from novice to master
 [Best Python Examples](https://github.com/geekcomputers/Python) 			| A Collection of Python Projects
 
-### - [ ] C++/C
+### C++/C
 
 Repository | Description
 ---- | ----
 [Awesome C++/C](https://github.com/fffaraz/awesome-cpp) 			| A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things.
 
-### - [ ] Machine Learning
+### Machine Learning
 
 Repository | Description
 ---- | ----
 [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) 			| Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility.
 
-### - [ ] Data Science
+### Data Science
 
 Repository | Description
 ---- | ----
 [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)  		| Collection of data science cheat sheet
 
-### - [ ] Projects
+### Projects
 
 Repository | Description
 ---- | ----
