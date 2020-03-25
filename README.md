@@ -57,6 +57,7 @@ You can learn everything related to CS with this courses
 - [ ] [Computer Science](https://github.com/ossu/computer-science)
 - [ ] [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [ ] [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- [ ] [Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 ### Interview
 
