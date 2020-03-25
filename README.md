@@ -275,6 +275,9 @@ Repository | Description
 [Python Books](https://github.com/amitkadivar1/Books) 			| Collection of free python books
 
 ## Course Materials
+
+![unlimited power](http://www.quickmeme.com/img/3b/3b530b9746c769e230e1d60c743292e004a8c065237acfca31711cb31afcf80b.jpg)
+
 >
 > *Thank you for sharing this materials!*
 >
