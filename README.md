@@ -178,6 +178,7 @@ Repository | Description
 
 Repository | Description
 ---- | ----
+[Hacker Laws](https://github.com/dwmkerr/hacker-laws) 			| 💻📖 Laws, Theories, Principles and Patterns that developers will find useful.
 [Cheatsheet God](https://github.com/OlivierLaflamme/Cheatsheet-God) 			| Penetration Testing Reference Bank - OSCP / PTP & PTX Cheatsheet
 [Purple Team Sheets](https://github.com/CATx003/PURPLE-Team-sheets) 			| Links, Sheets and tips about Hacking
 
