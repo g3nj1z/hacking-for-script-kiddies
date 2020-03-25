@@ -25,6 +25,7 @@
   - [Java](#java)
   - [Python](#python)
   - [C++/C](#c++/c)
+  - [Go](#go)
   - [Machine Learning](#machine-learning)
   - [Data Science](#data-science)
   - [Projects](#projects)
@@ -115,6 +116,14 @@ Repository | Description
 ---- | ----
 [Awesome C++/C](https://github.com/fffaraz/awesome-cpp) 			| A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things.
 
+## Go
+
+![Go](https://media.makeameme.org/created/its-go-time-5c6c97.jpg)
+
+Repository | Description
+---- | ----
+[Awesome Go](https://github.com/avelino/awesome-go) 			| A curated list of awesome Go frameworks, libraries and software
+
 ### Machine Learning
 
 ![Machine Learning](https://i.imgflip.com/2lnd1p.jpg)
@@ -137,6 +146,7 @@ Repository | Description
 
 Repository | Description
 ---- | ----
+[Awesomo](https://github.com/lk-geimfari/awesomo)  		| An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)  		| A list of awesome beginners-friendly projects.
 [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)  		| Collection of Multiple Projects
 [FaceForensics](https://github.com/ondyari/FaceForensics) 			| Github of the FaceForensics dataset
@@ -238,6 +248,10 @@ Repository | Description
 [Fsociety](https://github.com/Manisso/fsociety) 			| Fsociety Hacking Tools Pack – A Penetration Testing Framework
 [Fsociety Randomware](https://github.com/graniet/fsociety-ransomware-MrRobot) 			| This is Jester ransomware like, in Mr Robot movie (coded by Darlene S1E2,3)
 [Malware Samples](https://github.com/RamadhanAmizudin/malware) 			| Uploaded to GitHub for those want to analyse the code.
+
+## Go Hack
+[Hacking with Go](https://github.com/parsiya/Hacking-with-Go) 			| Golang for Security Professionals
+[Go Hack Tools](https://github.com/dreddsa5dies/goHackTools) 			| Hacker tools on Go (Golang) 
 
 ### Hack like a Youtuber
 
