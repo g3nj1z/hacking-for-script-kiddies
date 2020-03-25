@@ -236,6 +236,8 @@ Repository | Description
 
 ## Web Security
 
+![Data Breach](https://www.secureworldexpo.com/hs-fs/hubfs/meme-data-breach.gif?width=1043&name=meme-data-breach.gif)
+
 Repository | Description
 ---- | ----
 [ModSecurity](https://github.com/SpiderLabs/ModSecurity) 			| ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs.
@@ -271,6 +273,8 @@ Repository | Description
 [Malware Samples](https://github.com/RamadhanAmizudin/malware) 			| Uploaded to GitHub for those want to analyse the code.
 
 ## Go Hack
+
+![here we go again](https://sm.mashable.com/t/mashable_in/fun/t/the-here-w/the-here-we-go-again-meme-is-perfect-for-every-frustrating-s_kgv8.960.png)
 
 Repository | Description
 ---- | ----
