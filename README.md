@@ -59,7 +59,7 @@ You can learn everything related to CS with this courses
 
 ### Interview
 
-![Interview in IT company](https://i.pinimg.com/236x/1d/df/5d/1ddf5d58dbc867db5c93e15ea132047a.jpg)
+![Im too awesome](https://www.etcconsult.com/wp-content/uploads/2017/05/rsz_2whatsyourworstflawiamtooawesome.jpg)
 
 Repository | Description
 ---- | ----
