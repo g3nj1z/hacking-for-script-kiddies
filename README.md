@@ -20,7 +20,15 @@
 - [Why use it?](#why-use-it)
 - [How to use it?](#how-to-use-it)
 - [Hacking Youtube Channel](#hacking-youtube-channel)
-- [Best Repositories for Developer](#best-repositories-for-developer)
+- [Everything you need to know about Programming](#everything-you-need-to-know-about-programming)
+  - [Interview]
+  - [Web Development]
+  - [Projects]
+  - [Data Science]
+  - [Java]
+  - [Python]
+  - [C++/C]
+  - [Machine Learning]
 - [Best Repositories for Hackers](#best-repositories-for-hackers)
 - [Best Repositories for Toolkit](#best-repositories-for-toolkit)
 - [Best Repositories for Free Books](#best-repositories-for-free-books)
@@ -56,16 +64,18 @@ Good video resources if you wanna learn something from professional.
 - [Ceos3c](https://www.youtube.com/channel/UCDqZyVCTwg9UyRWKgQ7Gizg)
 - [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)
 
-## Best Repositories for Developer
+## Everything you need to know about Programming
 
 Repository | Description
 ---- | ----
 [Computer Science](https://github.com/ossu/computer-science) 			| :mortar_board: Free self-taught education in Computer Science
 [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) 			| Learn to code for free
 [Coding Interview University](https://github.com/jwasham/coding-interview-university) 			| A complete computer science study plan to become a software engineer.
+
 [Interviews](https://github.com/kdn251/interviews) 			| Everything you need to know to get the job. 
 [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) 			| 💯 Materials to help you rock your next coding interview
 [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)  		| Some useful websites for programmers.
+
 [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)  		| Manually curated collection of resources for frontend web developers.
 [Material UI](https://github.com/mui-org/material-ui)  		| React components for faster and easier web development.
 [Ant Design](https://github.com/ant-design/ant-design)  		| 🌈 A UI Design Language and React UI library 
@@ -75,9 +85,12 @@ Repository | Description
 [Sass](https://github.com/sass/sass)  		| Sass makes CSS fun!
 [Javascript](https://github.com/airbnb/javascript)  		| JavaScript Style Guide
 [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)  		| 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+
 [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)  		| A list of awesome beginners-friendly projects.
 [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)  		| Collection of Multiple Projects
+
 [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)  		| Collection of data science cheat sheet
+
 [Awesome Java](https://github.com/akullpp/awesome-java) 			| A curated list of awesome frameworks, libraries and software for the Java programming language.
 [Java Algorithms](https://github.com/TheAlgorithms/Java) 			| All Algorithms implemented in Java
 [Java Design Patterns](https://github.com/iluwatar/java-design-patterns) 			| Design patterns implemented in Java
