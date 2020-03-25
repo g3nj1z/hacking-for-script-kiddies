@@ -117,17 +117,23 @@ Repository | Description
 
 ### Machine Learning
 
+![Machine Learning](https://i.imgflip.com/2lnd1p.jpg)
+
 Repository | Description
 ---- | ----
 [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) 			| Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility.
 
 ### Data Science
 
+![Dark Side](https://p.migdal.pl/imgs/2016-03-15-dark-side-of-science-meme.jpg)
+
 Repository | Description
 ---- | ----
 [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)  		| Collection of data science cheat sheet
 
 ### Projects
+
+![Enjoy the projects](https://media.makeameme.org/created/enjoy-the-projects-107ee910fe.jpg)
 
 Repository | Description
 ---- | ----
