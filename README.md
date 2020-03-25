@@ -224,6 +224,9 @@ Repository | Description
 [SecLists](https://github.com/danielmiessler/SecLists) 			| SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place.
 [Linux Smart Enumeration](https://github.com/diego-treitos/linux-smart-enumeration) 			| Linux enumeration tool for pentesting and CTFs with verbosity levels
 
+## Web Security
+[ModSecurity](https://github.com/SpiderLabs/ModSecurity) 			| ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs.
+
 ## Forensic
 
 ![What Evidence](https://pbs.twimg.com/media/BFLWKN9CUAE8LjC?format=jpg&name=small)
