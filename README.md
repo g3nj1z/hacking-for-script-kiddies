@@ -144,7 +144,11 @@ Repository | Description
 
 ## Hack like a Pro
 
+![Like a pro](https://www.meme-arsenal.com/memes/378d92493247d84ddeef630b33d05e41.jpg)
+
 ### Awesome Hacking Repo
+
+![Awesome](https://img.devrant.com/devrant/rant/r_1346992_N6PUQ.jpg)
 
 Repository | Description
 ---- | ----
@@ -156,6 +160,8 @@ Repository | Description
 [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) 			| An awesome list of honeypot resources
 
 ### Hacker Cheatsheets
+
+![Cheatsheet](https://3.bp.blogspot.com/-TRbyc45oDZM/VngmfYii7UI/AAAAAAAAAys/LDWKJazzQnI/s1600/eth.jpg)
 
 Repository | Description
 ---- | ----
