@@ -173,6 +173,7 @@ Repository | Description
 [Awesome Security Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists) 			| A collection of various GitHub gists for hackers, pentesters and security researchers
 [Awesome Forensic](https://github.com/cugu/awesome-forensics) 			| A curated list of awesome forensic analysis tools and resources 
 [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) 			| A curated list of awesome malware analysis tools and resources.
+[Awesome Google VRP Writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups) 			| 🐛 A list of writeups from the Google VRP Bug Bounty program
 [Awesome Cybersecurity Blueteam](https://github.com/meitar/awesome-cybersecurity-blueteam) 			| 💻🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) 			| An awesome list of honeypot resources
 
