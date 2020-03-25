@@ -140,11 +140,8 @@ Repository | Description
 [Unity Game Hacking](https://github.com/xcsh/Unity-game-hacking) 			| A guide for hacking unity games
 [GTFOBins](https://github.com/GTFOBins/GTFOBins.github.io) 			| Curated list of Unix binaries that can be exploited to bypass system security restrictions
 [Machine Learning for Cybersecurity](https://github.com/PacktPublishing/Machine-Learning-for-Cybersecurity-Cookbook) 			| Machine Learning for Cybersecurity Cookbook
-[Fsociety](https://github.com/Manisso/fsociety) 			| Fsociety Hacking Tools Pack – A Penetration Testing Framework
-[Fsociety Randomware](https://github.com/graniet/fsociety-ransomware-MrRobot) 			| This is Jester ransomware like, in Mr Robot movie (coded by Darlene S1E2,3)
 [THC Tips Tricks Hacks Cheat Sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) 			| Collection of various tips & tricks
 [CTF-wiki](https://github.com/ctf-wiki/ctf-wiki) 			| CTF Wiki Online.
-[Malware Samples](https://github.com/RamadhanAmizudin/malware) 			| Uploaded to GitHub for those want to analyse the code.
 [Hacking](https://github.com/ckjbug/Hacking) 			| 🌐Collate and develop network security, Hackers technical documentation and tools, code.
 
 ### Hacker Toolbox
@@ -170,6 +167,9 @@ Repository | Description
 [Metasploit Framework](https://github.com/rapid7/metasploit-framework) 			| Metasploit Framework
 [Processhacker](https://github.com/processhacker/processhacker) 			| A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 [PHP Malware Finder](https://github.com/jvoisin/php-malware-finder) 			| Detect potentially malicious PHP files
+[Fsociety](https://github.com/Manisso/fsociety) 			| Fsociety Hacking Tools Pack – A Penetration Testing Framework
+[Fsociety Randomware](https://github.com/graniet/fsociety-ransomware-MrRobot) 			| This is Jester ransomware like, in Mr Robot movie (coded by Darlene S1E2,3)
+[Malware Samples](https://github.com/RamadhanAmizudin/malware) 			| Uploaded to GitHub for those want to analyse the code.
 
 ### Hack like a Youtuber
 
@@ -190,6 +190,9 @@ Good video resources if you wanna learn something from professional.
 - [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)
 
 ## Best Repositories for Free Books
+
+Good offline resources to keep you learn new things everyday.
+
 Repository | Description
 ---- | ----
 [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 			| A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
