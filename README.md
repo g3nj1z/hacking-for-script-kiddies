@@ -98,6 +98,8 @@ Repository | Description
 
 ### Python
 
+![Is this a debug method](http://screeneggs.com/wp-content/uploads/2019/02/gw16d17c3ji21.jpg)
+
 Repository | Description
 ---- | ----
 [Awesome Python](https://github.com/vinta/awesome-python) 			| A curated list of awesome Python frameworks, libraries, software and resources
@@ -106,6 +108,8 @@ Repository | Description
 [Best Python Examples](https://github.com/geekcomputers/Python) 			| A Collection of Python Projects
 
 ### C++/C
+
+![Dangerously](https://istarc.files.wordpress.com/2014/07/cppaustinpowers.png)
 
 Repository | Description
 ---- | ----
