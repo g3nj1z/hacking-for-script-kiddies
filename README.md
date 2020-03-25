@@ -28,9 +28,9 @@
   - [Machine Learning](#machine-learning)
   - [Data Science](#data-science)
   - [Projects](#projects)
-- [Best Repositories for Hackers](#best-repositories-for-hackers)
-- [Hacking Youtube Channel](#hacking-youtube-channel)
-- [Best Repositories for Toolkit](#best-repositories-for-toolkit)
+- [Hack like a Pro](#hack-like-a-pro)
+  - [Hacker Toolbox](#hacker-toolbox)
+  - [Hack like a Youtuber](#hack-like-a-youtuber)
 - [Best Repositories for Free Books](#best-repositories-for-free-books)
 - [Free Course Materials](#free-course-materials)
 
@@ -122,7 +122,7 @@ Repository | Description
 [FaceForensics](https://github.com/ondyari/FaceForensics) 			| Github of the FaceForensics dataset
 [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) 			| Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
-## Best Repositories for Hackers
+## Hack like a Pro
 
 Repository | Description
 ---- | ----
@@ -144,29 +144,10 @@ Repository | Description
 [Fsociety Randomware](https://github.com/graniet/fsociety-ransomware-MrRobot) 			| This is Jester ransomware like, in Mr Robot movie (coded by Darlene S1E2,3)
 [THC Tips Tricks Hacks Cheat Sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) 			| Collection of various tips & tricks
 [CTF-wiki](https://github.com/ctf-wiki/ctf-wiki) 			| CTF Wiki Online.
-[PHP Malware Finder](https://github.com/jvoisin/php-malware-finder) 			| Detect potentially malicious PHP files
 [Malware Samples](https://github.com/RamadhanAmizudin/malware) 			| Uploaded to GitHub for those want to analyse the code.
 [Hacking](https://github.com/ckjbug/Hacking) 			| 🌐Collate and develop network security, Hackers technical documentation and tools, code.
 
-## Hacking Youtube Channel
-
-Good video resources if you wanna learn something from professional.
-
-- [BlackHat](https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg)
-- [HackerOne](https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw)
-- [Commaai Archive](https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg)
-- [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
-- [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
-- [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
-- [Loi Liang Yang](https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw)
-- [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw)
-- [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
-- [Grant Collins](https://www.youtube.com/channel/UCTLUi3oc1-a7dS-2-YgEKmA)
-- [DC CyberSec](https://www.youtube.com/channel/UC3sccPO4v8YqCTn8sezZGTw)
-- [Ceos3c](https://www.youtube.com/channel/UCDqZyVCTwg9UyRWKgQ7Gizg)
-- [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)
-
-## Best Repositories for Toolkit
+### Hacker Toolbox
 
 Repository | Description
 ---- | ----
@@ -188,6 +169,25 @@ Repository | Description
 [SecLists](https://github.com/danielmiessler/SecLists) 			| SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place.
 [Metasploit Framework](https://github.com/rapid7/metasploit-framework) 			| Metasploit Framework
 [Processhacker](https://github.com/processhacker/processhacker) 			| A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
+[PHP Malware Finder](https://github.com/jvoisin/php-malware-finder) 			| Detect potentially malicious PHP files
+
+### Hack like a Youtuber
+
+Good video resources if you wanna learn something from professional.
+
+- [BlackHat](https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg)
+- [HackerOne](https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw)
+- [Commaai Archive](https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg)
+- [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+- [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+- [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
+- [Loi Liang Yang](https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw)
+- [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw)
+- [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
+- [Grant Collins](https://www.youtube.com/channel/UCTLUi3oc1-a7dS-2-YgEKmA)
+- [DC CyberSec](https://www.youtube.com/channel/UC3sccPO4v8YqCTn8sezZGTw)
+- [Ceos3c](https://www.youtube.com/channel/UCDqZyVCTwg9UyRWKgQ7Gizg)
+- [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)
 
 ## Best Repositories for Free Books
 Repository | Description
