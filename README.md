@@ -35,7 +35,7 @@
   - [Capture The Flag](#capture-the-flag)
   - [Hacker Toolbox](#hacker-toolbox)
   - [Hack like a Youtuber](#hack-like-a-youtuber)
-- [Free! Free! Free! Books](#free!-free!-free!-books)
+- [Free Free Free Books](#free-free-free-books)
 - [Free Course Materials](#free-course-materials)
 
 ## Why use it?
@@ -210,7 +210,7 @@ Good video resources if you wanna learn something from professional.
 - [Ceos3c](https://www.youtube.com/channel/UCDqZyVCTwg9UyRWKgQ7Gizg)
 - [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)
 
-## Free! Free! Free! Books
+## Free Free Free Books
 
 Good offline resources to keep you learn new things everyday.
 
