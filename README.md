@@ -30,6 +30,8 @@
 
 When I started this project, I didn't know anything about absolute anything, didn't know Coding or even Hacking.
 
+![Absolutely Nothing](http://www.quickmeme.com/img/1c/1c83e1c0388b35d43f2401543c9e214fb31892cec0d3966c7fe11955b5efe18f.jpg)
+
 It's a long plan. It may take you years. If you are familiar with a lot of this already it will take you a lot less time.
 
 ## How to use it?
