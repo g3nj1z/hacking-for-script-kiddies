@@ -31,7 +31,7 @@
 - [Hack like a Pro](#hack-like-a-pro)
   - [Awesome Hacking Repo](#awesome-hacking-repo)
   - [Hacker Cheatsheets](#hacker-cheatsheets)
-  - [Tips & Tricks](#tips-&-tricks)
+  - [Tips and Tricks](#tips-and-tricks)
   - [Capture The Flag](#capture-the-flag)
   - [Hacker Toolbox](#hacker-toolbox)
   - [Hack like a Youtuber](#hack-like-a-youtuber)
@@ -146,7 +146,7 @@ Repository | Description
 [Cheatsheet God](https://github.com/OlivierLaflamme/Cheatsheet-God) 			| Penetration Testing Reference Bank - OSCP / PTP & PTX Cheatsheet
 [Purple Team Sheets](https://github.com/CATx003/PURPLE-Team-sheets) 			| Links, Sheets and tips about Hacking
 
-### Tips & Tricks
+### Tips and Tricks
 
 Repository | Description
 ---- | ----
