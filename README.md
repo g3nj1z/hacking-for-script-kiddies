@@ -232,6 +232,7 @@ Repository | Description
 ---- | ----
 [ModSecurity](https://github.com/SpiderLabs/ModSecurity) 			| ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs.
 [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) 			| A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+[ezXSS](https://github.com/ssl/ezXSS) 			| easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.
 
 ## Forensic
 
