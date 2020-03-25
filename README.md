@@ -74,6 +74,7 @@ Repository | Description
 
 Repository | Description
 ---- | ----
+[Awesome Web Design](https://github.com/nicolesaidy/awesome-web-design)  		| 🎨 A curated list of awesome resources for digital designers.
 [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)  		| Manually curated collection of resources for frontend web developers.
 [Material UI](https://github.com/mui-org/material-ui)  		| React components for faster and easier web development.
 [Ant Design](https://github.com/ant-design/ant-design)  		| 🌈 A UI Design Language and React UI library 
@@ -123,6 +124,7 @@ Repository | Description
 Repository | Description
 ---- | ----
 [Awesome Go](https://github.com/avelino/awesome-go) 			| A curated list of awesome Go frameworks, libraries and software
+[Golang Developer Roadmap](https://github.com/Alikhll/golang-developer-roadmap) 			| Roadmap to becoming a Go developer
 
 ### Machine Learning
 
