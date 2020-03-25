@@ -51,6 +51,7 @@ Open any repositories that you interested and *read* it, It's already have guide
 You can learn everything related to CS with this courses
 - [Computer Science](https://github.com/ossu/computer-science)
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 ### Interview
 
@@ -59,7 +60,6 @@ Repository | Description
 [Coding Interview University](https://github.com/jwasham/coding-interview-university) 			| A complete computer science study plan to become a software engineer.
 [Interviews](https://github.com/kdn251/interviews) 			| Everything you need to know to get the job. 
 [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) 			| 💯 Materials to help you rock your next coding interview
-[Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)  		| Some useful websites for programmers.
 
 ### Web Development
 
