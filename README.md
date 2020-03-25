@@ -206,6 +206,7 @@ Repository | Description
 [CTF Toolkit](https://github.com/zardus/ctf-tools) 			| Some setup scripts for security research tools.
 [CTF Exploration Tool](https://github.com/taviso/ctftool) 			| Interactive CTF Exploration Tool
 [Pydictor](https://github.com/LandGrey/pydictor) 			| A powerful and useful hacker dictionary builder for a brute-force attack
+[Pwntools](https://github.com/Gallopsled/pwntools) 			| CTF framework and exploit development library
 
 ### Hacker Toolbox
 
