@@ -59,6 +59,8 @@ You can learn everything related to CS with this courses
 
 ### Interview
 
+![Interview in IT company](https://i.pinimg.com/236x/1d/df/5d/1ddf5d58dbc867db5c93e15ea132047a.jpg)
+
 Repository | Description
 ---- | ----
 [Coding Interview University](https://github.com/jwasham/coding-interview-university) 			| A complete computer science study plan to become a software engineer.
