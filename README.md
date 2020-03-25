@@ -30,7 +30,7 @@
   - [Projects](#projects)
 - [Hack like a Pro](#hack-like-a-pro)
   - [Awesome Hacking Repo](#awesome-hacking-repo)
-  - [Hacker Cheatsheets]{#hacker-cheatsheets}
+  - [Hacker Cheatsheets](#hacker-cheatsheets)
   - [Tips & Tricks](#tips-&-tricks)
   - [Capture The Flag](#capture-the-flag)
   - [Hacker Toolbox](#hacker-toolbox)
