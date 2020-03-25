@@ -227,6 +227,8 @@ Repository | Description
 
 ## Malware
 
+![hunt malware](https://cdn.whatismyipaddress.com/images-v4/proctect-malware.jpg)
+
 Repository | Description
 ---- | ----
 [Trojan](https://github.com/trojan-gfw/trojan) 			| An unidentifiable mechanism that helps you bypass GFW.
@@ -238,6 +240,8 @@ Repository | Description
 [Malware Samples](https://github.com/RamadhanAmizudin/malware) 			| Uploaded to GitHub for those want to analyse the code.
 
 ### Hack like a Youtuber
+
+![something epic happen](https://static.carthrottle.com/workspace/uploads/posts/2017/01/d03367ac3541e58931a4fc86b57ad414.jpg)
 
 Good video resources if you wanna learn something from professional.
 
@@ -256,6 +260,8 @@ Good video resources if you wanna learn something from professional.
 - [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)
 
 ## Free Free Free Books
+
+![free stuff](https://hostelhunting.com/blog/my/wp-content/uploads/2016/07/Free-1.jpg)
 
 Good offline resources to keep you learn new things everyday.
 
