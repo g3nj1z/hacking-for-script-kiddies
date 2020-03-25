@@ -54,10 +54,14 @@ Repository | Description
 [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) 			| Learn to code for free
 [Coding Interview University](https://github.com/jwasham/coding-interview-university) 			| A complete computer science study plan to become a software engineer.
 
+Repository | Description
+---- | ----
 [Interviews](https://github.com/kdn251/interviews) 			| Everything you need to know to get the job. 
 [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) 			| 💯 Materials to help you rock your next coding interview
 [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)  		| Some useful websites for programmers.
 
+Repository | Description
+---- | ----
 [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)  		| Manually curated collection of resources for frontend web developers.
 [Material UI](https://github.com/mui-org/material-ui)  		| React components for faster and easier web development.
 [Ant Design](https://github.com/ant-design/ant-design)  		| 🌈 A UI Design Language and React UI library 
@@ -68,24 +72,39 @@ Repository | Description
 [Javascript](https://github.com/airbnb/javascript)  		| JavaScript Style Guide
 [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)  		| 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
+Repository | Description
+---- | ----
 [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)  		| A list of awesome beginners-friendly projects.
 [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)  		| Collection of Multiple Projects
+[FaceForensics](https://github.com/ondyari/FaceForensics) 			| Github of the FaceForensics dataset
+[Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) 			| Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
+Repository | Description
+---- | ----
 [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)  		| Collection of data science cheat sheet
 
+Repository | Description
+---- | ----
 [Awesome Java](https://github.com/akullpp/awesome-java) 			| A curated list of awesome frameworks, libraries and software for the Java programming language.
 [Java Algorithms](https://github.com/TheAlgorithms/Java) 			| All Algorithms implemented in Java
 [Java Design Patterns](https://github.com/iluwatar/java-design-patterns) 			| Design patterns implemented in Java
 [Android Tutorial for Beginners](https://github.com/hussien89aa/AndroidTutorialForBeginners) 			| Step by step to build Android apps using Android Studio
 [Android Clean Architecture](https://github.com/android10/Android-CleanArchitecture) 			| This is a sample app that is part of a series of blog posts that have written about how to architect an android application using Uncle Bob's clean architecture approach.
 [Android Idea Live Templates](https://github.com/keyboardsurfer/idea-live-templates) 			| An #androidDev collection of Live Templates for Android Studio
+
+Repository | Description
+---- | ----
 [Awesome Python](https://github.com/vinta/awesome-python) 			| A curated list of awesome Python frameworks, libraries, software and resources
 [Python Algorithms](https://github.com/TheAlgorithms/Python) 			| All Algorithms implemented in Python 
 [Python 100 Days Challenge](https://github.com/jackfrued/Python-100-Days) 			| Python-100 days from novice to master
 [Best Python Examples](https://github.com/geekcomputers/Python) 			| A Collection of Python Projects
+
+Repository | Description
+---- | ----
 [Awesome C++/C](https://github.com/fffaraz/awesome-cpp) 			| A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things.
-[FaceForensics](https://github.com/ondyari/FaceForensics) 			| Github of the FaceForensics dataset
-[Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) 			| Clone a voice in 5 seconds to generate arbitrary speech in real-time
+
+Repository | Description
+---- | ----
 [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) 			| Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility.
 
 ## Best Repositories for Hackers
