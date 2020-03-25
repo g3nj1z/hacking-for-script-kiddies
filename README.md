@@ -231,6 +231,7 @@ Repository | Description
 Repository | Description
 ---- | ----
 [ModSecurity](https://github.com/SpiderLabs/ModSecurity) 			| ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs.
+[Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) 			| A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 ## Forensic
 
@@ -261,6 +262,9 @@ Repository | Description
 [Malware Samples](https://github.com/RamadhanAmizudin/malware) 			| Uploaded to GitHub for those want to analyse the code.
 
 ## Go Hack
+
+Repository | Description
+---- | ----
 [Hacking with Go](https://github.com/parsiya/Hacking-with-Go) 			| Golang for Security Professionals
 [Go Hack Tools](https://github.com/dreddsa5dies/goHackTools) 			| Hacker tools on Go (Golang) 
 
