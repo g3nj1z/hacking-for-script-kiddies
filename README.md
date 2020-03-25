@@ -68,6 +68,7 @@ Repository | Description
 [Coding Interview University](https://github.com/jwasham/coding-interview-university) 			| A complete computer science study plan to become a software engineer.
 [Interviews](https://github.com/kdn251/interviews) 			| Everything you need to know to get the job. 
 [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) 			| 💯 Materials to help you rock your next coding interview
+[DevOps Guide](https://github.com/Tikam02/DevOps-Guide) 			| DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
 
 ### Web Development
 
