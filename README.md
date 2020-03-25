@@ -29,9 +29,13 @@
   - [Data Science](#data-science)
   - [Projects](#projects)
 - [Hack like a Pro](#hack-like-a-pro)
+  - [Awesome Hacking Repo](#awesome-hacking-repo)
+  - [Hacker Cheatsheets]{#hacker-cheatsheets}
+  - [Tips & Tricks](#tips-&-tricks)
+  - [Capture The Flag](#capture-the-flag)
   - [Hacker Toolbox](#hacker-toolbox)
   - [Hack like a Youtuber](#hack-like-a-youtuber)
-- [Best Repositories for Free Books](#best-repositories-for-free-books)
+- [Free! Free! Free! Books](#free!-free!-free!-books)
 - [Free Course Materials](#free-course-materials)
 
 ## Why use it?
@@ -124,6 +128,8 @@ Repository | Description
 
 ## Hack like a Pro
 
+### Awesome Hacking Repo
+
 Repository | Description
 ---- | ----
 [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 			| Collection of various awesome lists for hackers, pentesters and security researchers
@@ -132,17 +138,32 @@ Repository | Description
 [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) 			| A curated list of awesome malware analysis tools and resources.
 [Awesome Cybersecurity Blueteam](https://github.com/meitar/awesome-cybersecurity-blueteam) 			| 💻🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) 			| An awesome list of honeypot resources
+
+### Hacker Cheatsheets
+
+Repository | Description
+---- | ----
 [Cheatsheet God](https://github.com/OlivierLaflamme/Cheatsheet-God) 			| Penetration Testing Reference Bank - OSCP / PTP & PTX Cheatsheet
-[Privilege Escalation](https://github.com/Ignitetechnologies/Privilege-Escalation) 			| A cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation
-[RedTeam Tactics and Techniques](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques) 			| Collection of Red Teaming Tactics and Techniques
 [Purple Team Sheets](https://github.com/CATx003/PURPLE-Team-sheets) 			| Links, Sheets and tips about Hacking
+
+### Tips & Tricks
+
+Repository | Description
+---- | ----
+[Hacking](https://github.com/ckjbug/Hacking) 			| 🌐Collate and develop network security, Hackers technical documentation and tools, code.
+[THC Tips Tricks Hacks Cheat Sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) 			| Collection of various tips & tricks
 [SecurityNuggets](https://github.com/Srinivas11789/SecurityNuggets) 			| 📘 Computer Security Nuggets -- > Ctf writeups + Explore, Research, Study, Fun and Learning Security
-[Unity Game Hacking](https://github.com/xcsh/Unity-game-hacking) 			| A guide for hacking unity games
+[RedTeam Tactics and Techniques](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques) 			| Collection of Red Teaming Tactics and Techniques
 [GTFOBins](https://github.com/GTFOBins/GTFOBins.github.io) 			| Curated list of Unix binaries that can be exploited to bypass system security restrictions
 [Machine Learning for Cybersecurity](https://github.com/PacktPublishing/Machine-Learning-for-Cybersecurity-Cookbook) 			| Machine Learning for Cybersecurity Cookbook
-[THC Tips Tricks Hacks Cheat Sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) 			| Collection of various tips & tricks
+[Unity Game Hacking](https://github.com/xcsh/Unity-game-hacking) 			| A guide for hacking unity games
+
+### Capture The Flag
+
+Repository | Description
+---- | ----
 [CTF-wiki](https://github.com/ctf-wiki/ctf-wiki) 			| CTF Wiki Online.
-[Hacking](https://github.com/ckjbug/Hacking) 			| 🌐Collate and develop network security, Hackers technical documentation and tools, code.
+[Privilege Escalation](https://github.com/Ignitetechnologies/Privilege-Escalation) 			| A cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation
 
 ### Hacker Toolbox
 
