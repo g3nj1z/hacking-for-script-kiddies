@@ -170,6 +170,8 @@ Repository | Description
 
 ### Tips and Tricks
 
+![tutorial](https://www.meme-arsenal.com/memes/0cba6794902ffdb78f397eefb4bd2fb2.jpg)
+
 Repository | Description
 ---- | ----
 [Hacking](https://github.com/ckjbug/Hacking) 			| 🌐Collate and develop network security, Hackers technical documentation and tools, code.
@@ -182,6 +184,8 @@ Repository | Description
 
 ### Capture The Flag
 
+![ctf](https://img.memecdn.com/when-youre-lpaying-capture-the-flag_o_446723.webp)
+
 Repository | Description
 ---- | ----
 [CTF-wiki](https://github.com/ctf-wiki/ctf-wiki) 			| CTF Wiki Online.
@@ -192,7 +196,11 @@ Repository | Description
 
 ### Hacker Toolbox
 
+![toolbox](https://media.makeameme.org/created/thats-right-its-5bd5bb.jpg)
+
 ## Pentesting
+
+![Im in](https://images3.memedroid.com/images/UPLOADED207/59457013365a4.jpeg)
 
 Repository | Description
 ---- | ----
@@ -204,6 +212,8 @@ Repository | Description
 [Linux Smart Enumeration](https://github.com/diego-treitos/linux-smart-enumeration) 			| Linux enumeration tool for pentesting and CTFs with verbosity levels
 
 ## Forensic
+
+![Forensic Expert](https://www.memecreator.org/static/images/memes/4091251.jpg)
 
 Repository | Description
 ---- | ----
