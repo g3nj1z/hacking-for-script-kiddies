@@ -17,11 +17,42 @@
 ## Table of Contents
 
 - [What is it?](#what-is-it)
+- [Why use it?](#why-use-it)
+- [How to use it?](#how-to-use-it)
+- [Hacking Youtube Channel](#hacking-youtube-channel)
 - [Best Repositories for Developer](#best-repositories-for-developer)
 - [Best Repositories for Hackers](#best-repositories-for-hackers)
 - [Best Repositories for Toolkit](#best-repositories-for-toolkit)
 - [Best Repositories for Free Books](#best-repositories-for-free-books)
 - [Free Course Materials](#free-course-materials)
+
+## Why use it?
+
+When I started this project, I didn't know anything about absolute anything, didn't know Coding or even Hacking.
+
+It's a long plan. It may take you years. If you are familiar with a lot of this already it will take you a lot less time.
+
+## How to use it?
+
+Open any repositories that you interested and *read* it, It's already have guide on how to tackle the topics.
+
+## Hacking Youtube Channel
+
+Good video resources if you wanna learn something from professional.
+
+[BlackHat](https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg)
+[HackerOne](https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw)
+[Commaai Archive](https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg)
+[IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+[LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+[John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
+[Loi Liang Yang](https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw)
+[Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw)
+[STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
+[Grant Collins](https://www.youtube.com/channel/UCTLUi3oc1-a7dS-2-YgEKmA)
+[DC CyberSec](https://www.youtube.com/channel/UC3sccPO4v8YqCTn8sezZGTw)
+[Ceos3c](https://www.youtube.com/channel/UCDqZyVCTwg9UyRWKgQ7Gizg)
+[Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)
 
 ## Best Repositories for Developer
 
