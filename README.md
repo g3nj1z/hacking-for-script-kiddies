@@ -98,6 +98,11 @@ Repository | Description
 [Java Design Patterns](https://github.com/iluwatar/java-design-patterns) 			| Design patterns implemented in Java
 
 ## Android
+
+![lose their mind](https://pbs.twimg.com/media/CW8SfCWWAAAd31I?format=jpg&name=small)
+
+Repository | Description
+---- | ----
 [Android Tutorial for Beginners](https://github.com/hussien89aa/AndroidTutorialForBeginners) 			| Step by step to build Android apps using Android Studio
 [Android Clean Architecture](https://github.com/android10/Android-CleanArchitecture) 			| This is a sample app that is part of a series of blog posts that have written about how to architect an android application using Uncle Bob's clean architecture approach.
 [Android Idea Live Templates](https://github.com/keyboardsurfer/idea-live-templates) 			| An #androidDev collection of Live Templates for Android Studio
