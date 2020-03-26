@@ -297,6 +297,7 @@ Good video resources if you wanna learn something from professional.
 - [BlackHat](https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg)
 - [HackerOne](https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw)
 - [Commaai Archive](https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg)
+- [HackerSploit](https://www.youtube.com/watch?v=1J7dWJMEnl8)
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 - [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
