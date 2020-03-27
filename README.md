@@ -323,6 +323,7 @@ Repository | Description
 [CTF-literature](https://github.com/s1gh/ctf-literature) 			| Collection of free books, papers and articles related to CTF challenges.
 [All Types Ebooks](https://github.com/abhijit838/ebooks) 			| Collection of free E-books of all types
 [Python Books](https://github.com/amitkadivar1/Books) 			| Collection of free python books
+[Books](https://github.com/DRSolomon/books) 			| Collection of book list
 
 ## Course Materials
 
