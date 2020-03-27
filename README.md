@@ -87,6 +87,7 @@ Repository | Description
 [Sass](https://github.com/sass/sass)  		| Sass makes CSS fun!
 [Javascript](https://github.com/airbnb/javascript)  		| JavaScript Style Guide
 [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)  		| 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+[Jquery.sparkline](https://github.com/gwatts/jquery.sparkline)  		| A plugin for the jQuery javascript library to generate small sparkline charts
 
 ### Java
 
