@@ -178,6 +178,7 @@ Repository | Description
 Repository | Description
 ---- | ----
 [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 			| Collection of various awesome lists for hackers, pentesters and security researchers
+[Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) 			| A collection of hacking / penetration testing resources to make you better!
 [Awesome Security Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists) 			| A collection of various GitHub gists for hackers, pentesters and security researchers
 [Awesome Forensic](https://github.com/cugu/awesome-forensics) 			| A curated list of awesome forensic analysis tools and resources 
 [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) 			| A curated list of awesome malware analysis tools and resources.
