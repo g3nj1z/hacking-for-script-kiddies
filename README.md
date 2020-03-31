@@ -242,6 +242,7 @@ Repository | Description
 [SecLists](https://github.com/danielmiessler/SecLists) 			| SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place.
 [Linux Smart Enumeration](https://github.com/diego-treitos/linux-smart-enumeration) 			| Linux enumeration tool for pentesting and CTFs with verbosity levels
 [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) 			| GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes.
+[Nishang](https://github.com/samratashok/nishang) 			| Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
 
 ## Web Security
 
