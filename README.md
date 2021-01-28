@@ -35,6 +35,7 @@
   - [Hacker Cheatsheets](#hacker-cheatsheets)
   - [Tips and Tricks](#tips-and-tricks)
   - [Capture The Flag](#capture-the-flag)
+  - [Writeups](#writeups)
   - [Hacker Toolbox](#hacker-toolbox)
   - [Hack like a Youtuber](#hack-like-a-youtuber)
 - [Free Free Free Books](#free-free-free-books)
@@ -224,6 +225,15 @@ Repository | Description
 [CTF Exploration Tool](https://github.com/taviso/ctftool) 			| Interactive CTF Exploration Tool
 [Pydictor](https://github.com/LandGrey/pydictor) 			| A powerful and useful hacker dictionary builder for a brute-force attack
 [Pwntools](https://github.com/Gallopsled/pwntools) 			| CTF framework and exploit development library
+
+### Writeups
+
+![writeups](https://saket-upadhyay.github.io/assets/images/sctf/ldt.jpg)
+
+Repository | Description
+---- | ----
+[KKSCTF-19](https://github.com/kksctf/kksctf-open-19) 			| KKSCTF-OPEN-19
+[CSIVITU](https://github.com/csivitu/CTF-Write-ups) 			| Collection Write-ups for CTF challenges by csivitu
 
 ### Hacker Toolbox
 
