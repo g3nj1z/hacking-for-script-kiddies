@@ -235,6 +235,7 @@ Repository | Description
 [KKSCTF-19](https://github.com/kksctf/kksctf-open-19) 			| KKSCTF-OPEN-19
 [CSIVITU](https://github.com/csivitu/CTF-Write-ups) 			| Collection Write-ups for CTF challenges by csivitu
 [APOIRRIER](https://github.com/apoirrier/CTFs-writeups) 			| Collection Write-ups for CTF challenges by apoirrier
+[1r0dm480](https://github.com/1r0dm480/CTF-Wr1T3uPs) 			| Collection Write-ups for CTF challenges by 1r0dm480
 
 ### Hacker Toolbox
 
