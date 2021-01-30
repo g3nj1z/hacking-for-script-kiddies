@@ -46,7 +46,7 @@
 ### 2nd Year (2021)
 
 - [OWASP](#owasp)
-  - [injection](#injection)
+  - [Injection](#injection)
   - [Broken Authentication](#broken-authentication)
   - [Sensitive Data Exposure](#sensitive-data-exposure)
   - [XML External Entity](#xml-external-entity)
@@ -416,3 +416,21 @@ Once the attacker has a foothold on the web server, they can start the usual enu
 #### Ways to Detect Active Command Injection
 
 We know that active command injection occurs when you can see the response from the system call.  In the above code, the function passthru() is actually what's doing all of the work here.  It's passing the response directly to the document so you can see the fruits of your labor right there.  Since we know that, we can go over some useful commands to try to enumerate the machine a bit further.  The function call here to passthru() may not always be what's happening behind the scenes, but I felt it was the easiest and least complicated way to demonstrate the vulnerability.  
+
+### Broken Authentication
+
+### Sensitive Data Exposure
+
+### XML External Entity
+
+### Broken Access Control
+
+### Security Misconfiguration
+
+### Cross-site Scripting
+
+### Insecure Deserialization
+
+### Components with Known Vulnerabilities
+
+### Insufficent Logging & Monitoring
