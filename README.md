@@ -16,6 +16,8 @@
 
 ## Table of Contents
 
+### 1st Year (2020)
+
 - [What is it?](#what-is-it)
 - [Why use it?](#why-use-it)
 - [How to use it?](#how-to-use-it)
@@ -40,6 +42,20 @@
   - [Hack like a Youtuber](#hack-like-a-youtuber)
 - [Free Free Free Books](#free-free-free-books)
 - [Course Materials](#course-materials)
+
+### 2nd Year (2021)
+
+- [OWASP](#owasp)
+  - [injection](#injection)
+  - [Broken Authentication](#broken-authentication)
+  - [Sensitive Data Exposure](#sensitive-data-exposure)
+  - [XML External Entity](#xml-external-entity)
+  - [Broken Access Control](#broken-access-control)
+  - [Security Misconfiguration](#security-misconfiguration)
+  - [Cross-site Scripting](#cross-site-scripting)
+  - [Insecure Deserialization](#insecure-deserialization)
+  - [Components with Known Vulnerabilities](#components-with-known-vulnerabilities)
+  - [Insufficent Logging & Monitoring](#insufficent-logging-and-monitoring)
 
 ## Why use it?
 
