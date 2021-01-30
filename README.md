@@ -240,6 +240,8 @@ Repository | Description
 [EmpireCTF](https://github.com/EmpireCTF/empirectf) 			| EmpireCTF – write-ups, capture the flag, cybersecurity
 [jselliott](https://github.com/jselliott/CyberFastTrack_SP2020) 			| A collection of writeups and solutions for the Cyber FastTrack Spring 2020 CTF
 [captainGeech42](https://github.com/captainGeech42/ctf-writeups) 			| Collection Write-ups for CTF challenges by captainGeech42
+[HadiFazelinia](https://github.com/HadiFazelinia/CTF-Challenges) 			| Collection Write-ups for CTF challenges by HadiFazelinia
+
 
 ### Hacker Toolbox
 
