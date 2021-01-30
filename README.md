@@ -241,6 +241,7 @@ Repository | Description
 [jselliott](https://github.com/jselliott/CyberFastTrack_SP2020) 			| A collection of writeups and solutions for the Cyber FastTrack Spring 2020 CTF
 [captainGeech42](https://github.com/captainGeech42/ctf-writeups) 			| Collection Write-ups for CTF challenges by captainGeech42
 [HadiFazelinia](https://github.com/HadiFazelinia/CTF-Challenges) 			| Collection Write-ups for CTF challenges by HadiFazelinia
+[Ne0Lux-C1Ph3r](https://github.com/Ne0Lux-C1Ph3r/WRITE-UP) 			| Collection Write-ups for CTF challenges by Ne0Lux-C1Ph3r
 
 
 ### Hacker Toolbox
