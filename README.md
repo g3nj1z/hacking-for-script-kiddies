@@ -63,7 +63,7 @@ Open any repositories that you interested and *read* it, It's already have guide
 
 ## Everything you need to know about Programming
 
-[ ] [Repo related to programming](https://github.com/g3nj1z/everything-you-need-to-know-about-programming)
+- [ ] [Repo related to programming](https://github.com/g3nj1z/everything-you-need-to-know-about-programming)
 
 ## Hack like a Pro
 
