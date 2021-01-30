@@ -389,7 +389,9 @@ After a year of exploring in IT security. I have become lazy to copy and paste. 
 ### Injection
 
 - [SQL INJECTION - PORTSWINGER](https://portswigger.net/web-security/sql-injection)
-   we can
+
+* Enum using nmap
+- nmap -sV --script=http-sql-injection <target>
 
 ### Broken Authentication
 
