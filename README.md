@@ -390,8 +390,12 @@ After a year of exploring in IT security. I have become lazy to copy and paste. 
 
 - [SQL INJECTION - PORTSWINGER](https://portswigger.net/web-security/sql-injection)
 
-* Enum using nmap
-- nmap -sV --script=http-sql-injection <target>
+- Enum using nmap
+>
+> nmap -sV --script=http-sql-injection <target>
+>
+- Using jsql
+- Using sqlmap with login-page
 
 ### Broken Authentication
 
