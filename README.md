@@ -388,14 +388,22 @@ After a year of exploring in IT security. I have become lazy to copy and paste. 
 
 ### Injection
 
-- [SQL INJECTION - PORTSWINGER](https://portswigger.net/web-security/sql-injection)
+[SQL INJECTION - PORTSWINGER](https://portswigger.net/web-security/sql-injection)
 
 - Enum using nmap
->
-> nmap -sV --script=http-sql-injection <target>
->
+  >
+  > nmap -sV --script=http-sql-injection <target>
+  >
 - Using jsql
 - Using sqlmap with login-page
+- Capture the request using burp suite, and save the request in a file.
+  >
+  > sqlmap -r request.txt
+  >
+- Crawl a page to find sql-injection.
+  >
+  > sqlmap -u http://example.com --crawl=1
+  >
 
 ### Broken Authentication
 
