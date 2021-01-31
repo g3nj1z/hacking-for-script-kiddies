@@ -163,6 +163,14 @@ After a year of exploring in IT security. I have become lazy to copy and paste. 
   >
   >admin’) - -
   >
+- Using error-bases DB enumeration
+  >
+  >Add the tick '
+  >
+  >Enumerate columns
+  >
+Using order by
+  [Total OSCP Guide](https://sushant747.gitbooks.io/total-oscp-guide/content/sql-injections.html)
 
 ### Broken Authentication
 
