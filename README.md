@@ -60,4 +60,4 @@ After a year of exploring in security. I have become lazy to copy and paste. Ins
 
 ## Bug Bounty
 
-- [ ] [My notes about open source bug bounty writeups](https://github.com/g3nj1z/bug-bounty)
+- [ ] [My notes after reading open source bug bounty writeups](https://github.com/g3nj1z/bug-bounty)
