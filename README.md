@@ -27,6 +27,7 @@
 ### 2nd Year (2021)
 
 - [OWASP](#owasp)
+- [Bug Bounty](#bug-bounty)
 
 # 1st Year
 
@@ -56,3 +57,7 @@ After a year of exploring in security. I have become lazy to copy and paste. Ins
 ## OWASP
 
 - [ ] [Notes related to OWASP](https://github.com/g3nj1z/owasp)
+
+## Bug Bounty
+
+- [ ] [My notes about open source bug bounty writeups](https://github.com/g3nj1z/bug-bounty)
