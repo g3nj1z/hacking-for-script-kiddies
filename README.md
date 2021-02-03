@@ -51,6 +51,8 @@ In 2016, I have been nominated to be a Malaysia National Coding Challenge Champi
 
 ## Hack like a Pro
 
+I learn the hard way
+
 - [ ] [Repo related to hacking](https://github.com/g3nj1z/hack-like-a-pro)
 
 # 2nd Year
