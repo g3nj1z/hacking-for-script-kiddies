@@ -45,6 +45,8 @@ Open any repositories that you interested and *read* it, It's already have guide
 
 ## Everything you need to know about Programming
 
+In 2016, I have been nominated to be a Malaysia National Coding Challenge Champion. And you know what? I had only code using my mother phone rather than using laptop/pc. It's really hard but you still need to keep moving forward. Now, I learn that everything is open-sourced. Here are repositories that may help you in learning by yourself :)
+
 - [ ] [Repo related to programming](https://github.com/g3nj1z/everything-you-need-to-know-about-programming)
 
 ## Hack like a Pro
