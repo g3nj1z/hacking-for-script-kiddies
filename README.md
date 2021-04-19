@@ -27,6 +27,7 @@
 ### 2nd Year (2021)
 
 - [OWASP](#owasp)
+- [Portswigger](#portswigger)
 - [Bug Bounty](#bug-bounty)
 
 # 1st Year
