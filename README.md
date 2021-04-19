@@ -11,7 +11,7 @@
 >
 ![I don't know what I'm supposed to do](https://i.pinimg.com/originals/6e/3b/9d/6e3b9d51461add09fd38c50f43ab7f2c.gif)
 >
-> Created this as a cheat sheat for any script kiddies to study any topics
+> Created this as a cheat sheat for any script kiddies to study any security related topics
 ---
 
 ## Table of Contents
