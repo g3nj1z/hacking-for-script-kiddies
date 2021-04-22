@@ -59,6 +59,10 @@ I learn the hard way
 # 2nd Year
 After a year of exploring in security. I have become lazy to copy and paste. Instead, I'll put the links that will help to go through the related topics.
 
+## Hack The Box
+
+- [ ] [Notes related to HTB](https://github.com/g3nj1z/htb)
+
 ## OWASP
 
 - [ ] [Notes related to OWASP](https://github.com/g3nj1z/owasp)
