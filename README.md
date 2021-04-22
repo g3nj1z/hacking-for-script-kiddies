@@ -62,6 +62,8 @@ After a year of exploring in security. I have become lazy to copy and paste. Ins
 
 ## Hack The Box
 
+<img src="htb.png" />
+
 - [ ] [Notes related to HTB](https://github.com/g3nj1z/htb)
 
 ## OWASP
